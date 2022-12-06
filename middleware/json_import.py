@@ -1,5 +1,5 @@
 import json 
-from Connection import client
+from Connection.elastic_con import client
 import os
 index_name = "slang-demo-json"
 #columns = ["id", "acronym", "meaning"]

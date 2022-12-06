@@ -2,7 +2,7 @@
 #-*- coding: utf-8 -*-
 from elasticsearch import Elasticsearch, helpers
 import os, uuid
-from Connection import client
+from Connection.elastic_con import client
 # create a new instance of the Elasticsearch client class
 elastic = Elasticsearch()
 # ...or uncomment to use this instead:
