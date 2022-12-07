@@ -1,13 +1,13 @@
 import json 
-from Connection.elastic_con import client
+#from Connection.elastic_con import client
 import os
 index_name = "slang-demo-json"
 #columns = ["id", "acronym", "meaning"]
 from pathlib import Path
-path_to_json = '/Users/anureddy/Desktop/Sem01/DataScience_for_text_analytics/Project1/slang/'
+path_to_json = '/Users/anu reddy/Desktop/Sem01/DataScience_for_text_analytics/Project1/slang/'
 
 for file_name in [file for file in os.listdir(path_to_json) if file.endswith('.json')]:
-  with open(path_to_json + file_name) as json_file:
+  with open(path_to_json + fil e_name) as json_file:
         
 
 
