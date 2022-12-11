@@ -35,17 +35,17 @@ See requirements.txt for further information.
 Contribution By AnuReddy:
 
 Implementing python codes to process .json file and save into elasticsearch.
-In the next stage : development of api to communicate with frontend and backend
+In the next stage : development of api to communicate with frontend and backend.
 
 Contribution By Mani Smaran Nair:
 
 Data visualization
-In the next stage : Imeplementing the front interface and using the api developed by anureddy
+In the next stage : Implementing the front interface and using the api developed by anureddy.
 
 Contribution By Shreyansu Vyas:
 
 Combining multiple datasets into one comprehensive file. (data cleaning)
-In the next stage : Implementing the scraping of twitter data into the elasticsearch dataset
+In the next stage : Implementing the scraping of twitter data into the elasticsearch dataset.
 
 Contribution By Yanxin Jia:
 
