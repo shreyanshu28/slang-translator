@@ -111,9 +111,9 @@ It is described in "future planning" how the (partial) translation should functi
 
 ### Data Analysis
 
-Data sources: see dataset&API part of this documentation.
+**Data sources**: see dataset&API part of this documentation.
 
-Preprocessing: the twitter data requires much cleaning before usage. See word2vec_model_formulation for details. The steps include: 
+**Preprocessing**: the twitter data requires much cleaning before usage. See word2vec_model_formulation for details. The steps include: 
 
 1. removing hashtags and @s. This is done by converting string to list (with tokenization) and removing the word after # or @.
 2. removing symbols that would not be useful for further processing. List the symbols and delete them from the tokenized list.
@@ -122,7 +122,73 @@ Preprocessing: the twitter data requires much cleaning before usage. See word2ve
 
 The input data to be translated should also require preprocessing for keyword extraction. There are two ways to extract keywords, one is to use spacy nlp().noun_chunks along with structure of verb phrases to extract all grammatical entity, another is to analyze the sentence structure with token.dep_. Both are feasible.
 
-Basic statistics: see DataVisualization.ipynb.
+**Basic statistics**: see DataVisualization.ipynb.
 
-Examples: see DataVisualization.ipynb.
+**Examples**: We will show one example from each dataset to display its structure. Dataset ordered as in list of links.
+
+*"Slang_2020_tweets"*: .csv, {word_id, word, tweeter_id, year, month, day, text, author_id, #Unnamed:0}. "Text" is the tweet with slang word "word", while the last column denotes the freq for "word" in tweet text. For eg the first row: 
+
+{0,
+AWOL,
+1220362722015092741,
+2020,
+1,
+23,
+Chris Hayes Issues Ultimatum To GOP Senators Napping, Going AWOL From Trump Trial - Democratic Under...(tweet text),
+55343543,
+0.0,
+}
+
+*"Emojilib"*: .json, contains emojis and related keywords, example as:
+
+{
+  '😀': [
+    'grinning_face',
+    'face',
+    'smile',
+    'happy',
+    'joy',
+    ':D',
+    'grin'
+  ],
+  '😃': [
+    'grinning_face_with_big_eyes',
+    'face',
+    'happy',
+    'joy',
+    'haha',
+  ...
+}
+
+*"Chat / Internet Slang | Abbreviations | Acronyms"*: .json, contains abbreviations and their original forms, example as:
+
+"root":{
+
+"2day":string"today",
+
+"2m2h":string"too much too handle",
+
+...}
+
+*"Full Emoji Database"*: .csv, {emoji, name, group, subgroup, codepoints}. Contains encoding and emoji type&definition. Example as:
+
+{🙂, grinning face, Smileys & Emotion, face-smiling,	1F600}
+
+*"Texting Abbreviations"*: not well-formed, HTML. Contain abbreviations and the original form, only for reference use alongside "Chat / Internet Slang | Abbreviations | Acronyms" dataset.
+
+*"Urban Dictionary Words And Definitions"*: corpus of 2.6 million words with ratings from urban dictionary. Contains slang ID, slang, upvote for definition, downvote for definition, author of definition and definition. Could be outdated, and if so, we would use our own Urban Dictionary API for the same purpose. 
+
+Example as:
+
+{
+0000007.
+Janky,
+296,
+255,
+dc397b2f,
+Undesirable; less-than optimum.}
+
+
+
+
 
