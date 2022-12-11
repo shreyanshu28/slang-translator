@@ -107,7 +107,7 @@ We shall be splitting the functions drafted in translation_framework_draft.ipynb
 
 We trained a basic word2vec model based on obtained twitter data (source: https://www.kaggle.com/datasets/daphnakeidar/slangvolution?select=slang_2020_tweets.csv) and tested its performance on multiple words.  The results display obvious twitter bias due to the small size of the corpus, as it's "most_similar" include "Kanye" with "ghost" and "god" with "coward". But the first one of the most similar words extracted have displayed generally good accuracy. By increasing dataset size, we reasonably expect higher precision. See Test_word2vec.ipynb for details.
 
-I have described in "future planning" how the (partial) translation should function based on current utilities. The process is drafted in translation_framework_draft.ipynb. It is not formed&tested and is only a frame for further implementation up to now.
+It is described in "future planning" how the (partial) translation should function based on current utilities. The process is drafted in translation_framework_draft.ipynb. It is not formed&tested and is only a frame for further implementation up to now.
 
 ### Data Analysis
 
