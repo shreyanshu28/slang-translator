@@ -1,5 +1,9 @@
-import json   
-from Connection import client
+import json 
+import sys
+ 
+sys.path.insert(1, '/Users/anureddy/Desktop/Sem01/DataScience_for_text_analytics/Project1/slang-translator/Connection')
+
+from elastic_con import client 
 from elasticsearch import Elasticsearch, helpers
 import os     
 index_name = "emo31"

@@ -10,7 +10,10 @@ client = Elasticsearch (
     hosts = ["http://localhost:9200"],
     http_auth = (
         os.environ.get('ES_USER'),
-        os.environ.get('ES_PASSWORD')
-    )
+        os.environ.get('ES_PASSWORD'),
+    ),
+    timeout=60, 
+    max_retries=10, 
+    retry_on_timeout=True
 )
 print(client)
