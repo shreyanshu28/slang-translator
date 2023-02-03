@@ -191,4 +191,4 @@ The data we are using is GYAFC corpus, which is Grammarly’s Yahoo Answers Form
 
 The example shows the output that is shown after training.
 
-[Image](slang-translator/example1.png)
+![Screenshot](example1.png)
