@@ -1,4 +1,5 @@
 # README
+
 # slang-translator
 
 ### Team members:
@@ -7,7 +8,6 @@ Anu Reddy : Anu.reddy@uni-heidelberg.de \
 Mani Smaran Nair : manismarann@gmail.com \
 Shreyansu Vyas : rk305@stud.uni-heidelberg.de \
 Yanxin Jia : jiayx@hotmail.com
-
 
 ### Existing code fragments:
 
@@ -21,7 +21,6 @@ https://github.com/fabriceyhc/emoji_translate
 
 https://github.com/anaulin/emoji-translator
 
-
 ### Utilized libraries:
 
 For data processing&storage: Pandas, Elasticsearch
@@ -33,7 +32,6 @@ See requirements.txt for further information.
 ### Project log (alphabetical order)
 
 #### Contribution By AnuReddy:
-
 
 Implementing python codes to process a csv and json file and save into elasticsearch.
 In the next stage : development of api to communicate with frontend and backend
@@ -73,10 +71,9 @@ Twitter data (API obtained, will be crawling data)
 
 Twitter, ReverseDictionary.
 
-
 ## Project State
 
-We have completed the initial steps of data collection and drafted possible approaches based on the existing form of our corpus. 
+We have completed the initial steps of data collection and drafted possible approaches based on the existing form of our corpus.
 
 ### Planning State
 
@@ -86,11 +83,11 @@ The framework of the project is thought of and partially implemented, thus it sh
 
 ### Future Planning
 
-Quickly recall our task: to translate a formal input sentence into an informal Internet one possibility with emoji. Translation without bulky seq2seq models is difficult, but not impossible. The process of such a translation, on the other hand, would be heavily reliant on the quality and structure of our data. The datasets we now have can be described as 2 parts: 
+Quickly recall our task: to translate a formal input sentence into an informal Internet one possibility with emoji. Translation without bulky seq2seq models is difficult, but not impossible. The process of such a translation, on the other hand, would be heavily reliant on the quality and structure of our data. The datasets we now have can be described as 2 parts:
 
 One major part of the data is raw twitter text data that would be used for word2vec training. Based on such a training, we would be able to build associations via vector distance among similar words in the Internet context. By utilizing these connections, one would be able to perform a meaning-reliant association for words that would fit into the input context by first extracting noun/verbs from the input sentence and then perform model.wv.most_similar with them. After obtaining associated words, we would perform ES query based on the obtained word list in the emoji dataset, which has multiple keywords for one single emoji, enabling association in a broader context. Append the associated emoji to (or substitute with) the original text, then the job of an emoji translation is done.
 
-The other part of the datasets are mostly slang-related. We already have abbreviations and their original forms (see https://www.kaggle.com/datasets/gowrishankarp/chat-slang-abbreviations-acronyms), and slangs with their meanings explained (see https://www.kaggle.com/datasets/therohk/urban-dictionary-words-dataset). Based on the above data, for a translation into slang we might: 
+The other part of the datasets are mostly slang-related. We already have abbreviations and their original forms (see https://www.kaggle.com/datasets/gowrishankarp/chat-slang-abbreviations-acronyms), and slangs with their meanings explained (see https://www.kaggle.com/datasets/therohk/urban-dictionary-words-dataset). Based on the above data, for a translation into slang we might:
 
 1. perform ES query with all possible k-shingle of the text and substitute some certain k-shingle with the corresponding (available) slang phrase. This is the easiest possible thing to implement, and since we already have the data ready, the query part would take little time. The remaining question is how to ensure accuracy of such queries, since the k-shingle and the explanation&translations we have for slangs can be phrased differently. The calculation of meaning similarity could be done using spacy built-ins, but its performance remains to be seen.
 
@@ -106,7 +103,7 @@ We shall be splitting the functions drafted in translation_framework_draft.ipynb
 
 ### Initial Experiments
 
-We trained a basic word2vec model based on obtained twitter data (source: https://www.kaggle.com/datasets/daphnakeidar/slangvolution?select=slang_2020_tweets.csv) and tested its performance on multiple words.  The results display obvious twitter bias due to the small size of the corpus, as it's "most_similar" include "Kanye" with "ghost" and "god" with "coward". But the first one of the most similar words extracted have displayed generally good accuracy. By increasing dataset size, we reasonably expect higher precision. See Test_word2vec.ipynb for details.
+We trained a basic word2vec model based on obtained twitter data (source: https://www.kaggle.com/datasets/daphnakeidar/slangvolution?select=slang_2020_tweets.csv) and tested its performance on multiple words. The results display obvious twitter bias due to the small size of the corpus, as it's "most_similar" include "Kanye" with "ghost" and "god" with "coward". But the first one of the most similar words extracted have displayed generally good accuracy. By increasing dataset size, we reasonably expect higher precision. See Test_word2vec.ipynb for details.
 
 It is described in "future planning" how the (partial) translation should function based on current utilities. The process is drafted in translation_framework_draft.ipynb. It is not formed&tested and is only a frame for further implementation up to now.
 
@@ -114,20 +111,20 @@ It is described in "future planning" how the (partial) translation should functi
 
 **Data sources**: see dataset&API part of this documentation.
 
-**Preprocessing**: the twitter data requires much cleaning before usage. See word2vec_model_formulation for details. The steps include: 
+**Preprocessing**: the twitter data requires much cleaning before usage. See word2vec_model_formulation for details. The steps include:
 
 1. removing hashtags and @s. This is done by converting string to list (with tokenization) and removing the word after # or @.
 2. removing symbols that would not be useful for further processing. List the symbols and delete them from the tokenized list.
 3. lowercase all words to decrease dimension of the data and validate the training.
 4. extract emojis that cannot be correctly tokenized and tokenize them separately. Done with python library "emoji".
 
-The input data to be translated should also require preprocessing for keyword extraction. There are two ways to extract keywords, one is to use spacy nlp().noun_chunks along with structure of verb phrases to extract all grammatical entity, another is to analyze the sentence structure with token.dep_. Both are feasible.
+The input data to be translated should also require preprocessing for keyword extraction. There are two ways to extract keywords, one is to use spacy nlp().noun*chunks along with structure of verb phrases to extract all grammatical entity, another is to analyze the sentence structure with token.dep*. Both are feasible.
 
 **Basic statistics**: see DataVisualization.ipynb.
 
 ### **Examples**: We will show one example from each dataset to display its structure. Dataset ordered as in list of links.
 
-*"Slang_2020_tweets"*: .csv, {word_id, word, tweeter_id, year, month, day, text, author_id, #Unnamed:0}. "Text" is the tweet with slang word "word", while the last column denotes the freq for "word" in tweet text. For eg the first row: 
+_"Slang_2020_tweets"_: .csv, {word_id, word, tweeter_id, year, month, day, text, author_id, #Unnamed:0}. "Text" is the tweet with slang word "word", while the last column denotes the freq for "word" in tweet text. For eg the first row:
 
 {0,
 AWOL,
@@ -140,28 +137,28 @@ Chris Hayes Issues Ultimatum To GOP Senators Napping, Going AWOL From Trump Tria
 0.0,
 }
 
-*"Emojilib"*: .json, contains emojis and related keywords, example as:
+_"Emojilib"_: .json, contains emojis and related keywords, example as:
 
 {
-  '😀': [
-    'grinning_face',
-    'face',
-    'smile',
-    'happy',
-    'joy',
-    ':D',
-    'grin'
-  ],
-  '😃': [
-    'grinning_face_with_big_eyes',
-    'face',
-    'happy',
-    'joy',
-    'haha',
-  ...
+'😀': [
+'grinning_face',
+'face',
+'smile',
+'happy',
+'joy',
+':D',
+'grin'
+],
+'😃': [
+'grinning_face_with_big_eyes',
+'face',
+'happy',
+'joy',
+'haha',
+...
 }
 
-*"Chat / Internet Slang | Abbreviations | Acronyms"*: .json, contains abbreviations and their original forms, example as:
+_"Chat / Internet Slang | Abbreviations | Acronyms"_: .json, contains abbreviations and their original forms, example as:
 
 "root":{
 
@@ -171,31 +168,27 @@ Chris Hayes Issues Ultimatum To GOP Senators Napping, Going AWOL From Trump Tria
 
 ...}
 
-*"Full Emoji Database"*: .csv, {emoji, name, group, subgroup, codepoints}. Contains encoding and emoji type&definition. Example as:
+_"Full Emoji Database"_: .csv, {emoji, name, group, subgroup, codepoints}. Contains encoding and emoji type&definition. Example as:
 
-{🙂, grinning face, Smileys & Emotion, face-smiling,	1F600}
+{🙂, grinning face, Smileys & Emotion, face-smiling, 1F600}
 
-*"Texting Abbreviations"*: not well-formed, HTML. Contain abbreviations and the original form, only for reference use alongside "Chat / Internet Slang | Abbreviations | Acronyms" dataset.
+_"Texting Abbreviations"_: not well-formed, HTML. Contain abbreviations and the original form, only for reference use alongside "Chat / Internet Slang | Abbreviations | Acronyms" dataset.
 
-*"Urban Dictionary Words And Definitions"*: corpus of 2.6 million words with ratings from urban dictionary. Contains slang ID, slang, upvote for definition, downvote for definition, author of definition and definition. Could be outdated, and if so, we would use our own Urban Dictionary API for the same purpose. 
+_"Urban Dictionary Words And Definitions"_: corpus of 2.6 million words with ratings from urban dictionary. Contains slang ID, slang, upvote for definition, downvote for definition, author of definition and definition. Could be outdated, and if so, we would use our own Urban Dictionary API for the same purpose.
 
 Example as:
 
-{
-0000007.
+{ 0000007.
 Janky,
 296,
 255,
 dc397b2f,
 Undesirable; less-than optimum.}
 
-
 ## 03.02.2023
-
 
 The data we are using is GYAFC corpus, which is Grammarly’s Yahoo Answers Formality Corpus. The model that we used is Seqeunce to Seqeunce model. Running this model with vocabulary size of 15,000 with 10 epochs gives around 40% accuracy.
 
-The example shows the output that is shown after training. 
+The example shows the output that is shown after training.
 
-
-
+[Image](slang-translator\example1.png)
