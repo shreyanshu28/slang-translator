@@ -190,6 +190,12 @@ dc397b2f,
 Undesirable; less-than optimum.}
 
 
+## 03.02.2023
+
+
+The data we are using is GYAFC corpus, which is Grammarly’s Yahoo Answers Formality Corpus. The model that we used is Seqeunce to Seqeunce model. Running this model with vocabulary size of 15,000 with 10 epochs gives around 40% accuracy.
+
+The example shows the output that is shown after training. 
 
 
 
