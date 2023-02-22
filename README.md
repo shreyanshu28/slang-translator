@@ -192,3 +192,8 @@ The data we are using is GYAFC corpus, which is Grammarly’s Yahoo Answers Form
 The example shows the output that is shown after training.
 
 ![Screenshot](example1.png)
+
+## 22.02.2023
+Created the whole pipeline with the docker file. A few indexes are created while the other are still pending.
+Soon , we will have the results being printed on the frontend svelte.
+
