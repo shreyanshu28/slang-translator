@@ -1,0 +1,3358 @@
+id,acronym,expansion
+0,2day,today
+1,2m2h,too much too handle
+2,2moro,tomorrow
+3,2nite,tonight
+4,4eae,for ever and ever
+5,aaf,as a friend
+6,aar,at any rate
+7,aayf,as always your friend
+8,abd,already been done
+9,ack,acknowledge
+10,adih,another day in hell
+11,adn,any day now
+12,adr,address
+13,aeap,as early as possible
+14,afaic,as far as i am concerned
+15,afaik,as far as i know
+16,aka,also known as
+17,ama,ask me anything
+18,ambw,all my best wishes
+19,aml,all my love
+20,aota,all of the above
+21,asap,as soon as possible
+22,atb,all the best
+23,ateotd,at the end of the day
+24,atm,at the moment
+25,awol,absent without leave
+26,aydy,are you done yet
+27,ayec,at your earliest convenience
+28,ayor,at your own risk
+29,ays,are you serious
+30,aysos,are you stupid or something
+31,ayt,are you there
+32,b/c,because
+33,b4,before
+34,b4n,bye for now
+35,bau,business as usual
+36,bbiaf,be back in a few
+37,bbiam,be back in a minute
+38,bbias,be back in a sec
+39,bbs,be back soon
+40,bbt,be back tomorrow
+41,bcnu,be seeing you
+42,bcoy,big crush on you
+43,bd,big deal
+44,bf,boy friend
+45,bfaw,best friend at work
+46,bfd,big freaking deal
+47,bff,best friends forever
+48,bffn,best friend for now
+49,bfn,bye for now
+50,bg,big grin
+51,bgwm,be gentle with me
+52,bhl8,be home late
+53,bib,boss is back
+54,bn,bad news
+55,bol,be on later
+56,bot,back on topic
+57,boyf,boyfriend
+58,brb,be right back
+59,brh,be right here
+60,bro,brother
+61,brt,be right there
+62,bt,but
+63,btw,by the way
+64,byoc,bring your own computer
+65,cmb,call me back
+66,cmiiw,correct me if i am wrong
+67,cob,close of business
+68,csl,cannot stop laughing
+69,cu,see you
+70,cua,see you around
+71,cul,see you later
+72,cwyl,chat with you later
+73,cya,cover your ass
+74,cye,check your e mail
+75,cyo,see you online
+76,dkdc,do not know do not care
+77,dm,direct message
+78,dts,do not think so
+79,dur,do you remember
+80,dwbh,do not worry be happy
+81,e1,everyone
+82,ef4t,effort
+83,eod,end of discussion
+84,f2f,face to face
+85,ftf,face to face
+86,faq,frequently asked questions
+87,fb,facebook
+88,ff,follow friday
+89,fish,first in still here
+90,fitb,fill in the blank
+91,ftbomh,from the bottom of my heart
+92,ftl,for the loss
+93,ftw,for the win
+94,fwb,friend with benefits
+95,fwiw,for what it is worth
+96,fyeo,for your eyes only
+97,fyi,for your information
+98,g4c,going for coffee
+99,ga,go ahead
+100,gac,get a clue
+101,gas,greetings and salutations
+102,gb,goodbye
+103,gbu,god bless you
+104,gf,girl friend
+105,gfn,gone for now
+106,glhf,good luck have fun
+107,gmta,great minds think alike
+108,gnite,good night
+109,gr8,great
+110,gratz,congratulations
+111,grl,girl
+112,gtsy,good to see you
+113,h&k,hugs and kisses
+114,h2cus,hope to see you soon
+115,h8,hate
+116,hag1,have a good one
+117,hagn,have a good night
+118,hand,have a nice day
+119,hawt,have a wonderful day
+120,hmb,hit be back
+121,hmu,hit me up
+122,hoas,hold on a second
+123,hru,how are you
+124,ht,hat tip or heard through
+125,hth,hope this helps
+126,hw,homework
+127,iac,in any case
+128,iae,in any event
+129,ianal,i am not a lawyer
+130,iao,i am out
+131,ic,i see
+132,icymi,in case you missed it
+133,idc,i do not care
+134,ihni,i have no idea
+135,iirc,if i remember correctly
+136,ikr,i know right
+137,ily,i love you
+138,im,instant message
+139,imho,in my humble opinion
+140,imo,in my opinion
+141,ims,i am sorry
+142,irl,in real life
+143,isly,i still love you
+144,iso,in search of
+145,iu2u,it is up to you
+146,iykwim,if you know what i mean
+147,j/k,just kidding
+148,j4f,just for fun
+149,jff,just for fun
+150,jic,just in case
+151,jlmk,just let me know
+152,jmo,just my opinion
+153,jsyk,just so you know
+154,jw,just wondering
+155,k,okay
+156,kk,okay
+157,kiss,keep it simple stupid
+158,kit,keep in touch
+159,l8,late
+160,l8r,later
+161,lho,laughing head off
+162,lmao,laughing my ass off
+163,lmbo,laughing my butt off
+164,lmk,let me know
+165,lol,lots of love
+166,lol,laughing out loud
+167,loti,laughing on the inside
+168,ltns,long time no see
+169,lylas,love you like a sister
+170,lysm,love you so much
+171,mc,merry christmas
+172,mgmt,management
+173,mm,music monday
+174,msm,mainstream media
+175,mu,miss you
+176,myob,mind your own business
+177,nagi,not a good idea
+178,nfm,not for me
+179,nfs,not for sale
+180,nm,nothing much
+181,nm,not much
+182,noyb,none of your business
+183,np,no problem
+184,nsfl,not safe for life
+185,nsfw,not safe for work
+186,nts,note to self
+187,nvm,never mind
+188,oh,overheard
+189,oic,oh i see
+190,omg,oh my god
+191,omw,on my way
+192,orly,oh really
+193,ot,off topic
+194,otb,off to bed
+195,otoh,on the other hand
+196,otp,on the phone
+197,ott,over the top
+198,paw,parents are watching
+199,pcm,please call me
+200,pls,please
+201,pov,point of view
+202,ppl,people
+203,ptb,please text back
+204,ptmm,please tell me more
+205,qq,crying
+206,rak,random act of kindness
+207,rbtl,read between the lines
+208,rip,rest in peace
+209,rl,real life
+210,rofl,rolling on the floor laughing
+211,"rt ",real time
+212,rtm,read the manual
+213,rys,are you single
+214,sby,somebody
+215,sfaik,so far as i know
+216,sh,shit happens
+217,simyc,sorry i missed your call
+218,sis,sister
+219,sitd,still in the dark
+220,smh,shaking my head
+221,sol,sooner or later
+222,srsly,seriously
+223,sry,sorry
+224,ssdd,same stuff different day
+225,stby,sucks to be you
+226,swak,sealed  with a kiss
+227,swyp,so what is your problem
+228,tafn,that is all for now
+229,tba,to be announced
+230,tbc,to be continued
+231,tbh,to be honest
+232,tbl,text back later
+233,tcb,take care of business
+234,tfh,thread from hell
+235,tfs,thanks for sharing
+236,tfti,thanks for the invitation
+237,tgif,thank god it is friday
+238,thx,thanks
+239,tia,thanks in advance
+240,tiad,tomorrow is another day
+241,time,tears in my eyes
+242,tlc,tender loving care
+243,tlk2ul8r,talk to you later
+244,tmi,too much information
+245,tmrw,tomorrow
+246,ttyl,talk to you later
+247,ttys,talk to you soon
+248,tyfyc,thank you for your comment
+249,tyvm,thank you very much
+250,u4e,you forever
+251,ur,your
+252,vat,value added tax
+253,vbg,very big grin
+254,vsf,very sad face
+255,wam,wait a minute
+256,wb,welcome back
+257,wc,who cares
+258,we,whatever
+259,weg,wicked evil grin
+260,witp,what is the point
+261,wknd,weekend
+262,wtf,what the fuck
+263,wth,what the heck
+264,wtpa,where the party at
+265,wuf,where are you from
+266,wycm,will you call me
+267,wywh,wish you were here
+268,xlnt,excellent
+269,xoxo,hugs and kisses
+270,ycmu,you crack me up
+271,ygm,you have got mail
+272,ymmv,your mileage may vary
+273,yolo,you only live once
+274,ytb,you are the best
+275,yw,you are welcome
+276,ywsyls,you win some you lose some
+277,aab,average at best
+278,aac,apple audio compression
+279,aaf,always and forever
+280,aak,alive and kicking
+281,aamof,as a matter of fact
+282,aap,always a pleasure
+283,aar,at any rate
+284,aarp,american association of retired persons
+285,aat,and another thing at all times
+286,aawy,and also with you
+287,aayf,as always your friend
+288,abc,american born chinese
+289,abd,already been done
+290,abdc,"americas best dance crew "
+291,abf,all but face
+292,abfab,absolutely fabulous
+293,abg,asian baby girl
+294,abh,actual bodily harm
+295,abp,already been posted
+296,abu,anyone but  united
+297,ac,air conditioning alternating current
+298,aclu,american civil liberties union
+299,acme,a company that makes everything
+300,acp,automatic colt pistol
+301,acta,anti counterfeiting trade agreement
+302,acu,army combat uniform
+303,ad,"anno domini "
+304,adad,another day another dollar
+305,add,attention deficit disorder
+306,aded,all day every day
+307,adgth,all dogs go to heaven
+308,adhd,attention deficit hyperactivity disorder
+309,adl,all day long
+310,adn,any day now
+311,adr,all due respect
+312,ads,aim down sights
+313,adsl,asymmetric digital subscriber line
+314,adtr,"a day to remember "
+315,ae,"american eagle "
+316,aeae,and ever and ever
+317,aeap,as early as possible
+318,afaia,as far as i am aware
+319,afaiaa,as far as i am aware
+320,afaiac,as far as i am concerned
+321,afaic,as far as i am concerned
+322,afaics,as far as i can see
+323,afaict,as far as i can tell
+324,afaik,as far as i know
+325,afair,as far as i remember
+326,afap,as far as possible
+327,afc,away from computer
+328,affa,angels forever forever angels
+329,afi,"a fire inside "
+330,afk,away from keyboard
+331,afl,australian football league
+332,afn,all for now
+333,afp,away from phone
+334,afrl,away from real life
+335,afs,always forever and seriously
+336,agc,automatic gain control
+337,agh,are not going to happen
+338,agm,annual general meeting
+339,agp,accelerated graphics port
+340,agt,"americas got talent "
+341,agw,all going well
+342,ai,artificial intelligence as if
+343,aib,am i boverd
+344,aids,acquired immune deficiency syndrome
+345,aigf,all in good fun
+346,aiic,as if i care
+347,aikrn,all i know right now
+348,aimh,always in my heart
+349,ainec,and it is not even close
+350,aio,all in one
+351,aisb,as i said before
+352,aisi,as i see it
+353,aitr,adult in the room
+354,aityd,and i think you do
+355,aiui,as i understand it
+356,aiyc,as if you care
+357,aj,apple juice
+358,aktf,always keep the faith
+359,alf,animal liberation front
+360,alg,are not life grand
+361,alihal,at least i have a life
+362,alkqn,almighty latin king and queen nation
+363,alol,actually laughing out loud
+364,alotbsol,always look on the bright side of life
+365,alu,arithmetic logic unit
+366,alwp,actual laughter was produced
+367,am,"ante meridiem  amplitude modulation "
+368,ama,ask me anything against medical advice
+369,amaa,ask me almost anything
+370,amap,as much as possible
+371,amc,american motors corportation
+372,amd,advanced micro devices
+373,amg,ah my god
+374,aml,all my love
+375,amn,any minute now
+376,amof,as a matter of fact
+377,amog,alpha male of group
+378,amt,alpha methyltryptamine
+379,amv,anime music video
+380,amw,"americas most wanted "
+381,an,authors note
+382,anc,african national congress
+383,anfawfos,and now for a word from our sponsor
+384,anfscd,and now for something completely different
+385,ansi,american national standards institute
+386,antm,americas next top model
+387,anzac,australian and new zealand army corps
+388,ao,adults only
+389,aob,any other business
+390,aod,all of day
+391,aoe,area of effect
+392,aok,age of kings  all ok
+393,aom,"age of mythology "
+394,aon,all or nothing as of now
+395,aos,ahead of schedule
+396,aot,as opposed to among other things
+397,aota,all of the above
+398,aots,"attack of the show "
+399,aow,all out war
+400,aoyp,angel on your pillow
+401,ap,associated press
+402,apb,all points bulletin
+403,apc,armoured personnel carrier
+404,api,application programming interface
+405,apm,actions per minute
+406,apn,as per normal
+407,apo,authorized personnel only
+408,apu,as per usual
+409,apyr,as per your request
+410,aq,"adventure quest "
+411,aqap,as quickly as possible
+412,aqf,ay que funny
+413,ar,assault rifle
+414,ark,act of random kindness
+415,arpa,"advanced research projects agency "
+416,arpanet,"advanced research projects agency network "
+417,arpu,average revenue per user
+418,asaic,as soon as i can
+419,asaik,as soon as i know
+420,asap,as soon as possible
+421,asas,as soon as sensible
+422,asat,as simple as that
+423,asayc,as soon as you can
+424,asbo,anti social behaviour order
+425,ascii,american standard code for information interchange
+426,aspca,american society for the prevention of cruelty to animals
+427,at&t,american telephone and telegraph
+428,ata,ait to air actual time of arrival
+429,atap,any time any place
+430,atb,all the best
+431,atc,air traffic control
+432,atd,attention to detail
+433,ateotd,at the end of the day
+434,atf,all time favorite
+435,atgatt,"all the gear all the time "
+436,ath,all time high
+437,atm,"at the moment automated teller machine "
+438,atmo,according to my opinion
+439,atn,any time now
+440,atoy,always thinking of you
+441,atq,answer the question
+442,atst,at the same time
+443,att,at this time all the time
+444,attt,are not that the truth
+445,atv,all terrain vehicle
+446,atvb,all the very best
+447,atw,all the way
+448,atwa,air trees water animals  all the way alive
+449,bac,back at computer blood alcohol content by any chance
+450,bacs,bankers automated clearing system
+451,bagl,bust a gut laughing
+452,bah,bored as hell
+453,bb,big brother be back
+454,bb4n,bye bye for now
+455,bbam,be back after meal
+456,bbb,bugging beyond belief
+457,bbbw,big beautiful black woman
+458,bbc,british broadcasting corporation
+459,bbeg,big bad evil guy
+460,bbfl,best buds for life
+461,bbfn,bye bye for now
+462,bbg,best be going
+463,bbiab,be back in a bit
+464,bbiaf,be back in a few
+465,bbiam,be back in a minute
+466,bbias,be back in a sec
+467,bbiaw,be back in a while
+468,bbk,boy better know
+469,bbl,be back later
+470,bbm,blackberry messaging
+471,bbml,be back much later
+472,bbn,be back never
+473,bbo,being bored online
+474,bbq,barbecue better be quick
+475,bbr,blonde brunette redhead
+476,bbs,be back soon bulletin board system
+477,bbt,be back tomorrow
+478,bbv,"brags beats and variance "
+479,bbw,big beautiful woman
+480,bbwl,be back way later
+481,bc,before christ
+482,bcbw,bow chica bow wow
+483,bcc,blind carbon copy
+484,bcd,behind closed doors
+485,bce,before common era
+486,bcf,best cousin forever
+487,bcg,birth control glasses
+488,bcs,bowl championship series
+489,bd,big deal
+490,bdn,busy doing nothing
+491,bdoml,best day of my life
+492,bdu,brain dead user battle dress uniform
+493,bfa,best friends always
+494,bfab,born from a boombox back for a bit
+495,bfam,brother from another mother
+496,bfb,better from behind
+497,bff,best friends forever
+498,bffae,best friends forever and ever best friends for all eternity
+499,bffl,best friend for life
+500,bffle,best friends for like ever
+501,bffltddup,best friends for life till death do us part
+502,bffn,best friend for now
+503,bffwb,best friend forever with benefits
+504,bfitw,best friend in the world
+505,bfk,big fat kiss
+506,bfmv,"bullet for my valentine "
+507,bfn,bye for now
+508,bfp,bad for pics big fat positive ie pregnant
+509,bftp,blast from the past
+510,bfut,best friends until tomorrow
+511,bfwb,best friend with benefits
+512,bg,bad game baby gangster
+513,bgd,black gangster disciples
+514,bgf,best girl friend
+515,bgl,big game license likes fat people
+516,bgm,background music
+517,bgt,"britains got talent "
+518,bh,be happy bloody hell big head
+519,bhd,bad hair day
+520,bhh,bless her heart
+521,bhl8,be home late
+522,bhm,big handsome man
+523,bho,barak hussein obama
+524,bhs,be home soon
+525,biab,back in a bit
+526,bic,believe it comrade
+527,bicbw,but i could be wrong
+528,bieh,best i ever had
+529,biffl,best internet friend for life
+530,bing,but it is not google
+531,bm,bowel movement black man bmw
+532,bm4l,best mates for life
+533,bmak,blow me a kiss
+534,bmb,bebo me back
+535,bmbo,blow my brains out
+536,bme,body modification ezine
+537,bmfe,best mates forever
+538,bmfl,best mates for life
+539,bmg,be my guest
+540,bmi,body mass index
+541,bml,bless my life
+542,bmoc,big man on campus
+543,bms,bitchy men syndrome
+544,bmt,before my time basic military training
+545,bmth,"bring me the horizon "
+546,bmttve,best mates til the very end
+547,bmus,beam me up scotty
+548,bmv,be my valentine
+549,bmw,"bavarian motor works "
+550,bmx,bicycle motocross
+551,bnb,bad news bears bed n breakfast bread n butter
+552,bnf,big name fan
+553,bni,batteries not included
+554,bnib,brand new in box
+555,bnoc,big name on campus
+556,bnp,british national party
+557,bnr,but not really
+558,bnwot,brand new without tags
+559,bnwt,brand new with tags
+560,bo,body odour
+561,boat,bust out another thousand
+562,bobfoc,body off baywatch face off crimewatch
+563,boed,"book of exalted deeds "
+564,bogo,buy one get one
+565,bogof,buy one get one free
+566,bogsat,bunch of guys sitting around talking
+567,cc,credit card carbon copy crowd control country code
+568,ccc,coricidin cough and cold
+569,ccg,collectible card game
+570,ccie,cisco certified internetwork expert
+571,ccl,could not care less
+572,ccna,cisco certified network associate
+573,ccr,"creedence clearwater revival "
+574,cctv,closed circuit television
+575,ccw,counterclockwise carrying a concealed weapon
+576,cd,compact disc cross dresser
+577,cdc,cult of the dead cow crudely drawn cock
+578,cdma,code division multiple access
+579,cd rw,compact disk rewritable
+580,clwy,cannot live without you
+581,cm,call me
+582,cmar,cry me a river
+583,cmb,call me back
+584,cme,close my eyes
+585,cmeo,crying my eyes out
+586,cmh,cross my heart
+587,cmho,cry my heart out
+588,cmi,count me in
+589,cmiiw,correct me if i am wrong
+590,cmiyc,catch me if you can
+591,cml,call me later
+592,cmn,call me now
+593,cmos,complementary metal oxide semiconductor
+594,cms,content management system
+595,cmu,cracks me up
+596,cmyk,cyan magenta yellow key
+597,cnn,cable news network
+598,cny,chinese new year
+599,co,commanding officer corrections officer company counter offer
+600,coa,certificate of authenticity
+601,cod,cash on delivery  call of duty
+602,col,crying out loud
+603,crb,"criminal records bureau "
+604,crbt,crying real big tears
+605,cwtsy,cannot wait to see you
+606,cwyl,chat with you later
+607,cyb,count your blessings
+608,cybi,can you believe it
+609,cydi,can you dig it
+610,cydm,check your direct messages
+611,cye,check your email
+612,cyf,cross your fingers
+613,cyl,catch you later
+614,cym,check your mail
+615,dln,do not look now
+616,dls,dirty little secret
+617,dltbbb,do not let the bed bugs bite
+618,dltbgyd,do not let the bastards grind you down
+619,dltm,do not lie to me
+620,dlv,demonstration of lower value
+621,dm,do not mind does not matter direct message
+622,dmaf,do not make a fuss
+623,dmal,drop me a line
+624,dmb,dave matthews band
+625,dmc,deep meaningful conversation
+626,dmca,digital millennium copyright act
+627,dmi,do not mention it
+628,dmiid,do not mind if i do
+629,dmm,do not mind me
+630,dmml,do not make me laugh
+631,dms,dirty money syndicate
+632,dmt,"di methyl tryptamine "
+633,dmta,dirty minds think alike
+634,dmv,department of motor vehicles
+635,dmw,dead man walking
+636,dmx,"dark man x "
+637,dmy,do not mess yourself
+638,dmz,de militarized zone
+639,dn,doing nothing
+640,dna,deoxyribonucleic acid did not attend does not apply
+641,dnc,democratic national committee
+642,dnd,do not disturb
+643,dndc,do not know do not care
+644,dne,do not erase does not exist
+645,dnf,did not finish
+646,dnftt,do not feed the troll
+647,dnk,do not know
+648,dnm,does not matter deep and meaningful
+649,dnp,do not post
+650,dnr,do not resuscitate
+651,dns,domain name service did not start
+652,dntk,do not need to know
+653,dnw,do not want
+654,doa,dead on arrival deteriorate on approach
+655,dob,date of birth
+656,doc,doctor drug of choice
+657,dod,day of defeat
+658,doe,depends on experience
+659,dof,depth of field
+660,dofl,dying on floor laughing
+661,drt,dead right there
+662,ds,darling son
+663,dsd,do some damage
+664,dsl,digital subscriber line
+665,dslr,"digital single lens reflex "
+666,dsp,digital signal processing
+667,dss,department of social services
+668,dst,daylight saving time
+669,dt,down town
+670,dta,do not trust anyone
+671,dtam,death to all men
+672,dtb,do not text back
+673,dtc,down to cuddle
+674,dtd,drunk till dawn drunk till death
+675,dte,down to earth
+676,dth,down to hang
+677,dtl,does the look
+678,dtm,doing too much dead to me
+679,dtms,does that make sense
+680,dtmwtd,do not tell me what to do
+681,dtp,disturbing the peace
+682,dtr,define the relationship
+683,dtrt,do the right thing
+684,dts,down the shore down to snuggle
+685,dtt,do not touch that
+686,dttc,do not text the cell
+687,dttm,do not talk to me
+688,dtyt,do not take your time
+689,ebm,electronic body music
+690,ebt,electronic benefits transfer
+691,elol,evil laugh out loud
+692,eob,end of business
+693,eoc,end of conversion
+694,eod,end of discussion
+695,eoe,equal opportunity employer
+696,eof,end of file
+697,eog,end of grade
+698,eol,end of lecture
+699,eom,end of message
+700,eor,end of rant
+701,eos,end of show
+702,eot,"end of thread "
+703,eotd,end of the day
+704,eotw,end of the world
+705,eotwawki,end of the world as we know it
+706,eow,end of watch
+707,epos,electronic point of sale
+708,eprom,electronically programmable rom
+709,erp,erotic role play
+710,esa,european space agency
+711,esb,"empire stikes back "
+712,esd,electro static discharge
+713,esl,english as second language
+714,esol,english for speakers of other languages
+715,esp,extra sensory perception
+716,espn,entertainment and sports programming network
+717,esrb,entertainment software rating board
+718,est,eastern standard time established
+719,estd,easier said than done
+720,et,extra terrestrial
+721,eta,estimated time of arrival edited to add
+722,etc,"et cetera "
+723,etd,estimated time of departure
+724,etf,"escape the fate "
+725,etid,"everytime i die "
+726,etw,enjoy the weekend
+727,eu,european union
+728,eua,end user agreement
+729,euc,excellent used condition
+730,eula,end user license agreement
+731,ev,expected value
+732,fya,for your amusement
+733,fyc,for your convenience for your consideration
+734,fye,for your entertainment
+735,fyeo,for your eyes only
+736,fyi,for your information
+737,fyk,for your knowledge
+738,fym,free your mind
+739,fyp,fixed your post
+740,fyr,for your review for your records
+741,fyt,for your time
+742,g o a t,greatest of all time
+743,ga,go ahead
+744,gac,guilty as charged get a clue
+745,gafia,get away from it all
+746,gafm,get away from me
+747,gb,great britain gigabyte
+748,gba,god bless america
+749,gbfn,goodbye for now
+750,gbh,grievous bodily harm
+751,gbml,good bye my love
+752,gbnf,gone but not forgotten
+753,gbp,"great british pounds "
+754,gbtm,get back to me
+755,gbtw,get back to work
+756,gbu,god bless you
+757,gbwy,god be with you
+758,gby,god bless you
+759,gc,good contition
+760,gcf,good clean fun
+761,gcmg,god calls me god
+762,gcse,"general certificate of secondary education "
+763,gcwok,gay couple without kids
+764,gd,gangsta disciple
+765,gdfr,going down for real
+766,gdi,god damn it
+767,gdp,gross domestic product
+768,ge,good evening
+769,ged,general educational development
+770,gfa,grenade free america
+771,gfak,go fly a kite
+772,gfc,global financial crisis
+773,gfete,grinning from ear to ear
+774,gff,grenade free foundation
+775,gfi,go for it
+776,gfn,gone for now
+777,gfp,good for pics
+778,gftw,go for the win
+779,gfu,good for you
+780,gfwl,games for windows live
+781,gfy,good for you
+782,gg,good game
+783,gga,good game all
+784,ggbb,good game bye bye
+785,ggg,"good giving and game "
+786,ggn,got to go now
+787,ggnore,good game no rematch
+788,ggoh,got to get outta here
+789,gh,guitar hero
+790,ghb,"gamma hydroxybutyrate "
+791,ghd,good hair day
+792,giwist,gee i wish i would said that
+793,giy,google it yourself
+794,giyf,google is your friend
+795,gj,good job
+796,gjoac,go jump off a cliff
+797,gjwhf,girls just want to have fun
+798,gk,good kid
+799,gky,go kill yourself
+800,gl,good luck good looking
+801,gl hf,good luck have fun
+802,gla,good luck all
+803,glag,giggling like a girl
+804,glotr,good luck on the rebuild
+805,glta,good luck to all
+806,glty,good luck to you
+807,glu,girls like us
+808,glws,good luck with sale
+809,glwt,good luck with that
+810,gm,general motors good morning genetically modified good move
+811,gma,good morning america
+812,gmab,give me a break
+813,gmt,greenwich mean time
+814,gmta,great minds think alike
+815,gmv,got my vote
+816,gmy,good man yourself
+817,gn,good night
+818,gnd,girl next door
+819,gne,good night and everything
+820,gnfb,good night facebook
+821,gnsd,good night sweet dreams
+822,goat,greatest of all time
+823,gomer,get out of my emergency room unwelcome patient
+824,gomf,get outta my face
+825,goml,get on my level
+826,goomf,get out of my face
+827,gooml,get out of my life
+828,gop,grand old party
+829,gp,general principle
+830,gpa,grade point average
+831,gpc,generic pack of cigarettes
+832,gpl,general public license
+833,gpoy,gratuitous picture of yourself
+834,gpoyw,gratuitous picture of yourself wednesday
+835,gprs,general packet radio services
+836,gps,global positioning system
+837,gpu,graphics processing unit
+838,gr,got to run
+839,gsd,getting stuff done
+840,gsm,global system for mobile communications
+841,gsoh,good sense of humor
+842,gsr,gun shot residue
+843,gstq,god save the queen
+844,gsw,gun shot wound
+845,gtb,go to bed
+846,gtbb,good to be back
+847,gtbosh,glad to be of some help
+848,gtd,getting things done
+849,gtg,got to go
+850,gtgg,got to get going
+851,gth,go to hell
+852,gthba,good times had by all
+853,gtho,get the hell out
+854,gtk,good to know
+855,gtm,giggling to myself
+856,gto,gran turismo omologato
+857,gtrm,going to read mail
+858,gtsy,good to see you
+859,gtts,got the t shirt
+860,gtw,got to work
+861,gu,grow up
+862,guti,get used to it
+863,gw,good work
+864,gwas,game was a success
+865,gwc,guy with camera
+866,gwg,girl with glasses
+867,gwi,get with it
+868,gwk,game winning kill
+869,gwp,gift with purchase
+870,gwr,guinness world records
+871,gws,get well soon
+872,gwtf,go with the flow
+873,gwtp,get with the program
+874,gyaldem,group of girls
+875,gyc,get your coat
+876,gyfs,get your facts straight
+877,gyo,get your own
+878,gyt,get yourself tested
+879,hagd,have a good day
+880,hage,have a good evening
+881,hagl,have a good life
+882,hagn,have a good night
+883,hago,have a good one
+884,hags,have a great summer
+885,hagt,have a great time
+886,haistk,how am i supposed to know
+887,hand,have a nice day
+888,hawt,hot having a wonderful time
+889,hay,how are you
+890,hayd,how are you doing
+891,hayt,how are you today
+892,hbd,happy birthday
+893,hbk,heart break kid
+894,hbn,how about now
+895,hbo,home box office
+896,hbp,"half blood prince "
+897,hbt,how bout that
+898,hbtu,happy birthday to you
+899,hbty,happy birthday to you
+900,hby,how about you
+901,hc,holy cow
+902,hcdajfu,he could do a job for us
+903,hcit,how cool is that
+904,hd,high definition
+905,hdd,hard disk drive
+906,hdmi,high definition multimedia interface
+907,hdth,how did that happen
+908,hdtv,high definition television
+909,hdy,how dare you
+910,hdyd,how do you do
+911,hdydt,how did you do that
+912,hdyk,how do you know
+913,he,happy ending high explosives
+914,hea,happily ever after
+915,henry,high earner not rich yet
+916,hf,have fun
+917,hffa,hot from far away
+918,hfgl,have fun good luck
+919,hfy,here for you happy for you
+920,hg,holy grail
+921,hgh,haters going to hate
+922,hgi,how goes it
+923,hgl,happy go lucky
+924,hgtv,home and garden television
+925,hgv,heavy goods vehicle
+926,hh,holding hands
+927,hhis,hanging head in shame
+928,hhoj,ha ha only joking
+929,hhok,ha ha only kidding
+930,hhvf,ha ha very funny
+931,hhww,holding hands while walking
+932,hig,how is it going
+933,hiik,hell if i know
+934,himym,"how i met your mother "
+935,hiv,human immunodeficiency virus
+936,hiwth,hate it when that happens
+937,hjntiy,he is just not that into you
+938,hk,hong kong hostile kids
+939,hl,"half life "
+940,hlas,hook line and sinker
+941,hmb,"hit me back "
+942,hmi,human machine interface
+943,hmihy,how may i help you
+944,hml,hate my life
+945,hmp,help me please
+946,hms,"her majestys ship "
+947,hmu,hit me up
+948,hmul,hit me up later
+949,hmv,his masters voice
+950,hng,horny net geek
+951,hnos,home network operating system
+952,hnr,hit n run
+953,hny,happy new year
+954,ho,hold on head office
+955,hoa,home owners association
+956,hoas,hold on a second
+957,hoay,how old are you
+958,hof,hall of fame heavy on flag
+959,hog,harley owner group
+960,hoh,head over heels  hard of hearing
+961,holland,hope our love lasts and never dies
+962,hov,high occupancy vehicle
+963,howdy,how do you do
+964,hp,harry potter
+965,hq,high quality
+966,hr,human resources
+967,hrc,human rights campaign
+968,hrh,her royal highness
+969,hsbc,hong kong and shanghai banking corporation
+970,hsh,home sweet home
+971,hsik,how should i know
+972,hsit,how sad is that
+973,hsl,hue saturation lightness
+974,hsm,high school musical
+975,hsp,highly sensitive person
+976,hspda,high speed packet data access
+977,hst,high speed train
+978,hsv2,herpes simplex virus 2
+979,ht,hat tip  home time handheld transceiver
+980,htbt,had to be there
+981,htc,hit the cell
+982,hte,hard to explain
+983,htg,hard to get
+984,hth,hope that helps how the hell
+985,hthfys,hope to hear from you soon
+986,htm,hand to mouth
+987,html,hypertext markup language
+988,htsys,hope to see you soon
+989,http,hyper text transfer protocol
+990,https,hyper text transfer protocol secure
+991,httr,hail to the redskins
+992,hu,"hollywood undead "
+993,hua,heard understood acknowledged
+994,hvac,heating ventilating air conditioning
+995,hvd,happy valentines day
+996,hwb,hottie with body
+997,hwga,here we go again
+998,hwp,height weight proportional
+999,hwsnbn,he who shall not be named
+1000,hwu,hey what is up
+1001,hwyd,how was your day
+1002,hyb,how you been
+1003,hyd,how ya doing
+1004,hyfb,hope you feel better
+1005,hyg,here you go
+1006,hyh,have you heard hold your horses
+1007,hyip,high yield investment program
+1008,hyp,harvard yale princeton
+1009,hys,have your say
+1010,hyu,hit you up
+1011,ia,i agree
+1012,iab,i am bored
+1013,iabw,in a bad way
+1014,iac,in any case
+1015,iad,it all depends
+1016,iae,in any event
+1017,iag,it is all good
+1018,iak,i already know
+1019,ial,i are not laughing i actually laughed
+1020,ialto,i always love that one
+1021,iama,i am mildly amused
+1022,ianad,i am not a doctor
+1023,ianal,"i am not a lawyer "
+1024,ias,in a second
+1025,iau,i adore you
+1026,iaw,in accordance with i agree with
+1027,iawtc,i agree with that comment
+1028,iawtcsm,i agree with this comment so much
+1029,iawtp,i agree with this post
+1030,iay,i adore you
+1031,ib,i am back
+1032,ib2d,i beg to differ
+1033,ib4tl,in before the lock
+1034,iban,international bank account number
+1035,ibb,i will be back
+1036,ibk,idiot behind keyboard
+1037,ibl,in before lock
+1038,ibm,international business machines
+1039,ibmts,i have been meaning to say
+1040,ibs,irritable bowel syndrome
+1041,ibtd,in before the delete i beg to differ
+1042,ibtl,in before the lock
+1043,ibuwu,i am breaking up with you
+1044,ibw,i will be waiting
+1045,ibyp,i beg your pardon
+1046,icam,i could not agree more
+1047,icay,i care about you
+1048,icb,i cannot believe
+1049,icbb,i cannot be bothered
+1050,icbi,i cannot believe it
+1051,icbinb,i cannot believe it is not butter
+1052,icbm,intercontinental ballistic missile
+1053,icbsst,i cannot believe she said that
+1054,icbw,it could be worse
+1055,icc,"ice crown citadel "
+1056,iccl,i could not care less
+1057,icr,i cannot remember
+1058,icsl,i could not stop laughing
+1059,icstay,i cannot stop thinking about you
+1060,ict,information and communication technology
+1061,icu,intensive care unit i see you
+1062,icw,in connection with i cannot wait
+1063,icydk,in case you did not know
+1064,icymi,in case you missed it
+1065,idbi,i do not believe it
+1066,idby,i do not believe you
+1067,idc,i do not care
+1068,ide,integrated development environment integrated device electronics
+1069,idec,i do not even care
+1070,idek,i do not even know
+1071,ideky,i do not even know you
+1072,idewtk,i do not even want to know
+1073,idfg,i do not feel good
+1074,idfli,i do not feel like it
+1075,idgad,i do not give a damn
+1076,idghp,i do not get hashtag phrases i do not get his or her point i do not generally hate people
+1077,idgi,i do not get it
+1078,idhac,i do not have a clue
+1079,idhtt,i do not have the time
+1080,idi,i doubt it
+1081,idj,i do not judge
+1082,idk,i do not know
+1083,idke,i do not know either
+1084,idkw,i do not know why
+1085,idkwtd,i do not know what to do
+1086,idkwym,i do not know what you mean
+1087,idky,i do not know why
+1088,idl,"i do not like "
+1089,idli,i do not like it
+1090,idlt,i do not like that
+1091,idly,i do not like you
+1092,idm,it does not matter intelligent dance music
+1093,idk,i do not know
+1094,idnk,i do not know
+1095,idr,i do not remember
+1096,idrc,i do not really care
+1097,idrk,i do not really know
+1098,idst,if destroyed still true
+1099,idt,i do not think
+1100,idts,i do not think so
+1101,idu,i do not understand
+1102,idunno,i do not know
+1103,idw,i do not want
+1104,idwk,i do not want to know
+1105,idwt,i do not want to
+1106,idwtai,i do not want to talk about it
+1107,idwtk,i do not want to know
+1108,ie,id est  internet explorer
+1109,ied,improvised explosive device
+1110,ieee,institute of electrical and electronics engineers
+1111,iep,individualized education program
+1112,ifm,in fond memory
+1113,igi,i get it
+1114,igm,i got mine
+1115,igmc,i will get my coat
+1116,ign,in game name
+1117,ignb,i am going now bye
+1118,ignts,i have got nothing to say
+1119,igs,i guess so
+1120,igtg,i got to go
+1121,igu,i give up
+1122,igwt,in god we trust
+1123,igy,i get you
+1124,igyb,i have got your back
+1125,ih8u,i hate you
+1126,ihac,i have a customer
+1127,ihdk,i honestly do not know
+1128,ihm,i hate mondays
+1129,ihml,i hate my life
+1130,ihnc,i have no clue
+1131,ihni,i have no idea
+1132,iho,in honor of
+1133,ihop,international house of pancakes
+1134,ihp,i hate people
+1135,ihs,i hope so
+1136,iht,i hate this
+1137,ihy,i hate you
+1138,ihydm,i hope you do not mind
+1139,ihysm,i hate you so much
+1140,iib,ignorance is bliss
+1141,iifym,if it fits your macros
+1142,iih,if i am honest
+1143,iil,i am in love
+1144,iinm,if i am not mistaken
+1145,iir,idiot in room
+1146,iirc,if i remember correctly
+1147,iis,internet information services
+1148,iituwutmas,if i tell you will you tell me a secret
+1149,iitwi,in it to win it
+1150,iitywimiwhtky,if i tell you what it means i will have to kill you
+1151,iitywtmwybmad,if i tell you what this means will you buy me a drink
+1152,iitywtmwykm,if i tell you what this means will you kiss me
+1153,iitywybmad,if i tell you will you buy me a drink
+1154,iiuc,if i understand correctly
+1155,iiwii,it is what it is
+1156,iiwy,if i were you
+1157,ij,i am joking
+1158,ijaf,it is just a fact
+1159,ijdk,i just do not know
+1160,ijg,i just giggled
+1161,ijk,i am just kidding
+1162,ijl,i just laughed
+1163,ijs,i am just saying
+1164,ijwtk,i just want to know
+1165,ijwts,i just want to say
+1166,ik,i know
+1167,ikh,i know huh
+1168,ikhyf,i know how you feel
+1169,ikly,i kind of like you
+1170,ikm,i know man
+1171,ikmty,i know more than you
+1172,ikn,i know not
+1173,ikr,i know right
+1174,ikt,i knew that
+1175,iktf,i know the feeling
+1176,iktr,i know that is right
+1177,ikwum,i know what you mean
+1178,ikwydls,i know what you did last summer
+1179,ikwyl,i know where you live
+1180,ikwym,i know what you mean
+1181,iky,i know you
+1182,ikyp,i will keep you posted
+1183,il,in love
+1184,ild,"ich liebe dich "
+1185,ilh,i love him or her
+1186,ili,i love it
+1187,ilm,i lige m
+1188,ilml,i love my life
+1189,ilmo,in loving memory of
+1190,ilny,i love new york
+1191,ils,inflated lat syndrome
+1192,ilt,i like that
+1193,ily,i love you
+1194,ily2,i love you too
+1195,ilya,i love you all
+1196,ilyaaf,i love you as a friend
+1197,ilyam,i love you as a mate
+1198,ilyb,i love you both
+1199,ilyf,i will love you forever
+1200,ilyg,i love you guys or girls
+1201,ilyk,i will let you know
+1202,ilyl,i love you lots
+1203,ilylas,i love you like a sister
+1204,ilylt,i love you long time
+1205,ilym,i love you more
+1206,ilysdm,i love you so damn much
+1207,ilysm,i love you so much
+1208,ilysmb,i love you so much baby
+1209,ilysmm,i love you so much more
+1210,ilyt,i love you too
+1211,ilytb,i love you to bits
+1212,ilyvm,i love you very much
+1213,ilywamh,i love you with all my heart
+1214,im,instant message
+1215,imaho,in my absolutely honest opinion
+1216,imao,in my arrogant opinion
+1217,imap,internet message access protocol
+1218,imbo,in my biased opinion
+1219,imco,in my considered opinion
+1220,imd,in my defence
+1221,imdb,internet movie database
+1222,ime,in my experience
+1223,imeo,in my educated opinion
+1224,imf,international monetary fund
+1225,imh,in my head
+1226,imho,in my humble opinion
+1227,imk,in my knowledge
+1228,immao,in my most arrogant opinion
+1229,immd,it made my day
+1230,imml,it made me laugh
+1231,imnsho,in my not so humble opinion
+1232,imo,in my opinion
+1233,imoo,in my own opinion
+1234,imp,it is my pleasure
+1235,impo,in my personal opinion
+1236,imr,i mean really
+1237,ims,irritable male syndrome
+1238,imsmr,if memory serves me right
+1239,imu,i miss you
+1240,imusm,i miss you so much
+1241,imvu,instant messaging virtual universe
+1242,imwtk,inquiring minds want to know
+1243,imy,i miss you
+1244,imya,i miss you already
+1245,imym,i miss you more
+1246,imysm,i miss you so much
+1247,imyt,i miss you too
+1248,inah,i need a hug
+1249,inb,i am not bothered
+1250,inbd,it is no big deal
+1251,incydk,in case you did not know
+1252,inpo,in no particular order
+1253,inrs,it is not rocket science
+1254,ins,i am not sure
+1255,intk,i need to know
+1256,intp,"introverted intuitive thinking perceiving "
+1257,invu,i envy you
+1258,inwly,i never want to lose you
+1259,iny,i need you
+1260,ioab,i am on a boat
+1261,ioc,international olympic committee
+1262,ioh,i am outta here
+1263,ioi,indication of interest i am over it
+1264,ioic,if only i could
+1265,iokiyar,it is okay if you are a republican
+1266,iom,isle of man
+1267,iomw,i am on my way
+1268,ion,in other news
+1269,iou,i owe you
+1270,iow,in other words
+1271,ioyk,if only you knew
+1272,ip,internet protocol intellectual property
+1273,ipa,india pale ale internet protocol address
+1274,ipc,ignore post count
+1275,ipo,initial public offering
+1276,iq,intelligence quotient
+1277,ir,infrared injured reserve
+1278,ira,irish republican army
+1279,irah,insert relevant acronym here
+1280,irc,internet relay chat
+1281,irdc,i really do not care
+1282,irdk,i really do not know
+1283,irl,in real life
+1284,irly,i really like you
+1285,irmc,i rest my case
+1286,irs,internal revenue service
+1287,isb,i am so bored
+1288,isbn,international standard book number
+1289,isdk,i simply do not know
+1290,isdn,integrated services digital network
+1291,ishk,i should have known
+1292,isly,i still love you
+1293,iso,in search of
+1294,isp,internet service provider
+1295,iss,international space station i am so sorry
+1296,issn,international standard serial number
+1297,istatoy,i saw this and thought of you
+1298,istg,i swear to god
+1299,istm,it seems to me
+1300,istr,i seem to recall
+1301,iswydt,i see what you did there
+1302,iswym,i see what you mean
+1303,it,information technology
+1304,ita,i totally agree
+1305,itai,i will think about it
+1306,italy,i trust and love you
+1307,itc,in this channel in that case
+1308,itf,in the future
+1309,itg,in the groove
+1310,itiailwy,i think i am in love with you
+1311,itiky,i think i know you
+1312,itilu,i think i love you
+1313,itily,i think i love you
+1314,itk,in the know
+1315,itm,in the mouth
+1316,itma,it is that man again
+1317,itn,i think not
+1318,ito,in terms of
+1319,itoy,i am thinking of you
+1320,itp,inside the perimeter
+1321,its,i think or thought so
+1322,itso,in the style of
+1323,itt,in this thread
+1324,ittet,in these tough economic times
+1325,itv,"independent tv "
+1326,itwym,is that what you mean
+1327,ityf,i think you will find
+1328,ityl,i will tell you later
+1329,itym,i think you mean
+1330,itys,i told you so
+1331,ivf,in vitro fertilization
+1332,iwaly,i will always love you
+1333,iwbb,i will be back
+1334,iwc,internet wrestling community
+1335,iwhi,i would hit it
+1336,iwid,it is what i do
+1337,iwik,i wish i knew
+1338,iwiwt,i wish i were there
+1339,iwm,it was not me
+1340,iwoot,i want one of those
+1341,iwtd,i want to die
+1342,iwy,i want you
+1343,iyam,if you ask me
+1344,iybtyba,if you believe that you will believe anything
+1345,iyd,in your dreams
+1346,iydk,if you did not know
+1347,iydm,if you do not mind
+1348,iyf,in your face
+1349,iygm,if you get me
+1350,iyh,in your head
+1351,iykwim,if you know what i mean
+1352,iyl,if you are lucky it is your life
+1353,iyo,in your opinion
+1354,iyss,if you say so
+1355,iyswim,if you see what i mean
+1356,iytt,if you think that
+1357,iyw,if you want or will
+1358,iyww,if you were wondering
+1359,j,joking
+1360,jaf,just a friend
+1361,jafa,just another fucking aucklander
+1362,japan,just always pray at night
+1363,jas,just a second
+1364,jat,just a thought
+1365,jatq,just answer the question
+1366,jb,jail bait jonas brothers
+1367,jbh,just being honest
+1368,jbt,jack booted thug
+1369,jbu,just between us
+1370,jby,just be yourself
+1371,jc,jesus christ just curious just chilling
+1372,jcb,"j c bamford "
+1373,jd,jack daniels
+1374,jdi,just do it
+1375,jdlr,just does not look right
+1376,jdm,japanese domestic market
+1377,jff,just for fun
+1378,jfk,john fitzgerald kennedy new york airport just for kicks
+1379,jfn,just for now
+1380,jft,just for today
+1381,jftr,just for the record
+1382,jfy,just for you
+1383,jfyi,just for your information
+1384,jg,juicy gossip
+1385,jgb,just got back
+1386,jgh,just got home
+1387,jgi,just google it
+1388,jgl,just get lost
+1389,jhc,jesus h christ
+1390,jhp,"jacketed hollow point "
+1391,jic,just in case
+1392,jicydk,just in case you did not know
+1393,jj,just joking
+1394,jk,just kidding
+1395,jkd,"jeet kune do "
+1396,jlmk,just let me know
+1397,jls,"jack the lad swing "
+1398,jlt,just like that
+1399,jluk,just letting you know
+1400,jly,jesus loves you
+1401,jlyk,just letting you know
+1402,jm,just messing
+1403,jma,just messing around
+1404,jmho,just my humble opinion
+1405,jml,just my luck
+1406,jmo,just my opinion
+1407,jms,just making sure
+1408,jmt,just my thoughts
+1409,jn,just now
+1410,jooc,just out of curiosity
+1411,jp,just playin
+1412,jpa,just playing around
+1413,jpeg,joint photographic experts group image file format
+1414,jrotc,junior reserve officer training corps
+1415,jrpg,japanese role playing game
+1416,js,just saying
+1417,jsmn,just shoot me now
+1418,jsp,java server pages
+1419,jsu,just shut up
+1420,jsyk,just so you know
+1421,jtb,just too bad
+1422,jtc,join the club
+1423,jtlyk,just to let you know
+1424,jtol,just thinking out loud
+1425,jtoy,just thinking of you
+1426,jtty,just to tell you
+1427,jtusk,just thought you should know
+1428,juad,jumping up and down
+1429,jv,junior varsity amateur
+1430,jw,just wondering
+1431,jwas,just wait and see
+1432,jwd,job well done
+1433,jwg,just a wild guess
+1434,jwtk,just wanted to know
+1435,jwtlyk,just wanted to let you know
+1436,jwu,just woke up
+1437,jww,just was wondering
+1438,kafm,keep away from me
+1439,kcaco,keep calm and carry on
+1440,kcco,keep calm and chive on
+1441,kd,kraft dinner
+1442,kdr,kill or death ratio
+1443,kf,kind of funny
+1444,kfc,kentucky fried chicken
+1445,kgb,russian secret police
+1446,kh,"kingdom hearts "
+1447,khyf,know how you feel
+1448,kia,killed in action know it all
+1449,kicks,shoes thrills
+1450,kig,keep it gangsta
+1451,kim,keep it moving
+1452,kio,knock it off
+1453,kip,sleep bed
+1454,kir,keepin it real
+1455,kirf,keeping it real fake
+1456,kis,keep it simple
+1457,kisa,knight in shining armour
+1458,kiss,keep it simple stupid
+1459,kit,keep in touch
+1460,kiu,keep it up
+1461,kiv,keep in view
+1462,kkk,ku klux klan
+1463,kkkk,korean lol
+1464,km,keep mum
+1465,kmfc,keeping my fingers crossed
+1466,kml,killing myself laughing
+1467,kmn,kill me now
+1468,kmp,keep me posted
+1469,kmt,kiss my teeth
+1470,kmu,keep me updated
+1471,kod,kiss of death
+1472,kos,kill on sight
+1473,kotc,kiss on the cheek
+1474,koth,"king of the hill "
+1475,kotl,kiss on the lips
+1476,kotor,"knights of the old republic "
+1477,kp,korean pride
+1478,kpc,keep parents clueless
+1479,kpg,keep the party going
+1480,kpi,key performance indicator
+1481,kr,kind regards
+1482,kro,keep right on
+1483,ks,kill steal
+1484,ktbffh,"keep the blue flag flying high "
+1485,ktbspa,keep the backstreet pride alive
+1486,ktf,keep the faith
+1487,kwim,know what i mean
+1488,kwis,know what i am saying
+1489,kyfc,keep your fingers crossed
+1490,kyo,knock yourself out
+1491,kyp,keep you posted
+1492,lafs,love at first sight
+1493,lak,love and kisses
+1494,lal,laughing a lot or little
+1495,lalb,laughing a little bit
+1496,lam,leave a message run
+1497,lamn,look at me now
+1498,lan,local area network
+1499,lapd,los angeles police department
+1500,larp,live action role play
+1501,lart,luser attitude readjustment tool
+1502,laser,light amplification by stimulated emission of radiation
+1503,lat,living apart together
+1504,latm,laughing at the moment
+1505,lbc,long beach california
+1506,lbd,little black dress
+1507,lbdn,look busy doing nothing
+1508,lbh,let us be honest loser back home
+1509,lbm,little big man
+1510,lbnl,last but not least
+1511,lbr,loser beyond repair
+1512,lbrs,"lower blackrock spire "
+1513,lbvs,laughing but very serious
+1514,lbw,"leg before wicket "
+1515,lc,lower case
+1516,lcd,liquid crystal display
+1517,lcts,let us change the subject
+1518,ld,"link dead "
+1519,lda,long distance affair
+1520,ldh,long distance hug
+1521,ldi,let us do it
+1522,ldl,long distance lover
+1523,ldo,like duh obviously
+1524,ldr,long distance relationship
+1525,lds,latter day saint
+1526,le,limited edition law enforcement
+1527,lec,local exchange carrier
+1528,led,light emiting diode
+1529,leo,law enforcement officer
+1530,lev,low emission vehicle
+1531,lf,looking for
+1532,lf1m,looking for one more
+1533,lfdy,live fast die young
+1534,lfg,looking for group
+1535,lfm,looking for more
+1536,lfmf,learn from my fail
+1537,lfp,"looking for party "
+1538,lfti,looking forward to it
+1539,lftsu,look forward to seeing you
+1540,lfw,looking for work
+1541,lg,little girl
+1542,lgbtq,lesbian gay bisexual trans questioning
+1543,lgd,let us get drunk
+1544,lgfb,looks good from behind
+1545,lgmh,love gives me hope
+1546,lgo,life goes on
+1547,lgt,"link goes to "
+1548,lgtm,looks good to me
+1549,lh,living hell
+1550,lhh,laughing hella hard
+1551,lhk,love hugs and kisses
+1552,lhm,lord have mercy lord help me
+1553,lhyw,like hell you will
+1554,li,laughing inside
+1555,lifo,last in first out
+1556,lig,let it go
+1557,lih,laugh in head
+1558,lihop,let it happen on purpose
+1559,liita,love is in the air
+1560,lilaboc,life is like a box of chocolates
+1561,limb,laughing in my brain
+1562,limh,laughing in my head
+1563,limm,laughing in my mind
+1564,lirl,laughing in real life
+1565,lis,laughing in silence
+1566,lits,life is too short
+1567,liu,look it up
+1568,ljbf,let us just be friends
+1569,ll,laugh loudly lol
+1570,llap,live long and prosper
+1571,llc,limited liability company laughing like crazy
+1572,llh,laughing like hell
+1573,lll,loony liberal left
+1574,llttf,living life to the fullest
+1575,lm,loud mouth
+1576,lma,leave me alone
+1577,lmad,let us make a deal
+1578,lmam,leave me a message
+1579,lmap,leave me alone please
+1580,lmc,let me check
+1581,lmco,laughing my cats off
+1582,lmg,light machine gun
+1583,lmgtfy,let me google that for you
+1584,lmho,laughing my head off
+1585,lmirl,let us meet in real life
+1586,lmk,let me know
+1587,lml,love my life
+1588,lmpo,laughing my pants off
+1589,lmr,last minute resistance
+1590,lms,like my status last man standing
+1591,lmso,laughing my socks off
+1592,lmt,let me think
+1593,lmtal,let me take a look
+1594,lnf,lifes not fair
+1595,lnib,like new in box
+1596,lnt,leave no trace
+1597,loa,leave of absence
+1598,lol,laughing out loud
+1599,lolak,lots of love and kisses
+1600,loll,laugh out loud literally
+1601,lolol,lots of laughing out loud
+1602,lolv,lots of love
+1603,lomb,lying on my bed
+1604,loml,love of my life
+1605,lomo,lights out missionary only
+1606,lool,laughing outlandishly out loud
+1607,loq,laugh out quietly
+1608,lorl,laugh out really loud
+1609,los,line of site
+1610,lotd,link of the day
+1611,loti,laughing on the inside
+1612,lotr,lord of the rings
+1613,lotro,"lord of the rings online "
+1614,lovl,laughing out very loud
+1615,loyol,live out your own life
+1616,loz,legend of zelda
+1617,lp,"long play "
+1618,lpg,liquefied petroleum gas
+1619,lpt,life pro tip
+1620,lqi,laughing quietly inside
+1621,lql,laughing quite loudly
+1622,lqtm,laughing quietly to myself
+1623,lqtms,laughing quietly to myself
+1624,lqty,laughing quietly to yourself
+1625,lrf,low resolution fox
+1626,lrg,"lifted research group "
+1627,lrl,laughing really loud
+1628,lsat,law school admission test
+1629,lse,london school of economics low self esteem
+1630,lsh,laughing so hard
+1631,lshic,laughing so hard i am crying
+1632,lshidmt,laughing so hard i drop my taco
+1633,lshmbh,laughing so hard my belly hurts
+1634,lsi,limited social interaction
+1635,lsmft,lucky strike means fine tobacco
+1636,lsmih,laughing so much it hurts
+1637,lsp,love sick puppy
+1638,lss,last song syndrome
+1639,lstm,laughing silently to myself
+1640,lta,love to all
+1641,ltb,looking to buy
+1642,ltd,live or living the dream
+1643,ltg,learn to google
+1644,lth,love truth honor
+1645,ltic,laugh til i cry
+1646,ltl,living the life
+1647,ltm,laughing to myself
+1648,ltma,less talk more action
+1649,ltmq,laughing to myself quietly
+1650,ltms,laughing to myself
+1651,ltnc,long time no chat
+1652,ltns,long time no see
+1653,ltnt,long time no talk
+1654,ltp,lost the plot
+1655,ltr,long term relationship
+1656,lts,laugh to self
+1657,lty,laugh to yourself
+1658,lui,living under the infuence
+1659,lul,lame uncomfortable laugh
+1660,lulab,love you like a brother
+1661,lulas,love you like a sister
+1662,lv,louis vuitton las vegas level
+1663,lw,lucky win
+1664,lwicd,look what i can do
+1665,lwkm,"laugh wan kill me "
+1666,lwkmd,laugh wan kill me die
+1667,lwm,laugh with me
+1668,lwp,laughing with passion
+1669,lwt,look who is talking
+1670,lwwy,live while we are young
+1671,ly,love you
+1672,lya,love you always
+1673,lyaaf,love you as a friend love you always and forever
+1674,lyb,love you bye
+1675,lyf,love you forever
+1676,lyk,let you know
+1677,lyl,love you lots
+1678,lylab,love you like a brother
+1679,lylaf,love you like a friend
+1680,lylas,love you like a sister
+1681,lylc,love you like crazy
+1682,lylmb,love you like my brother
+1683,lylt,love you long time
+1684,lym,love you more
+1685,lymi,love you mean it
+1686,lymy,love you miss you
+1687,lymywy,love you miss you want you
+1688,lyr,love you really
+1689,lysm,love you so much
+1690,lyt,love you too
+1691,lytd,love you to death
+1692,lz,landing zone
+1693,ma,mom alert master of arts
+1694,maab,male assigned at birth
+1695,mac,media access control macintosh
+1696,madd,mothers against drunk driving
+1697,mapoti,most annoying people on the internet
+1698,mas,mildly amused smirk
+1699,maw,might as well
+1700,mawoy,may angels watch over you
+1701,mba,masters of business association married but available
+1702,mbd,my bad dudes
+1703,mbf,my best friend
+1704,mbfam,my brother from another mother
+1705,mbm,married black male
+1706,mbn,must be nice
+1707,mbo,must be off management buy out
+1708,mbps,megabits or bytes per second
+1709,mbr,master boot record
+1710,mbt,"masai barefoot technology "
+1711,mbw,married black woman
+1712,mc,master of ceremonies
+1713,mcl,much clown love
+1714,mcm,man crush monday
+1715,mcp,male chauvanist pig
+1716,mcr,"my chemical romance "
+1717,mcw,man crush wednesday
+1718,mdf,medium density fiberboard
+1719,mdk,murder death kill
+1720,mdr,"mort de rire "
+1721,mdw,memorial day weekend
+1722,mego,my eyes glazed over
+1723,mfc,mildly fat chick microsoft foundation classes
+1724,mfeo,made for each other
+1725,mfg,"mit freundlichen gruessen "
+1726,mfl,marked for later
+1727,mfw,"my face when "
+1728,mgby,may god bless you
+1729,mgd,miller genuine draft
+1730,mgk,machine gun kelly
+1731,mgm,male genital mutilation
+1732,mgmt,"the management "
+1733,mgo,"metal gear online "
+1734,mgs,"metal gear solid "
+1735,mh,map hack
+1736,mhbfy,my heart bleeds for you
+1737,mho,my honest opinion
+1738,mhoty,my hats off to you
+1739,mhr,many happy returns
+1740,mi6,military intelligence service 6
+1741,mia,missing in action
+1742,mib,men in black mint in box
+1743,midi,musical instrument digital interface
+1744,miga,make it go away
+1745,mih,make it happen
+1746,mihop,made it happen on purpose
+1747,mil,mother in law
+1748,mimo,multiple input multiple output
+1749,mip,minor in possession
+1750,mips,million instructions per second
+1751,mirl,meet in real life
+1752,misb,mint  in sealed box
+1753,miso,my internet shut off
+1754,mj,michael jackson michael jordan marijuana
+1755,mlas,my lips are sealed
+1756,mlb,major league baseball
+1757,mlg,major league gaming
+1758,mlia,my life is average
+1759,mlib,my life is bro
+1760,mlig,my life is great or good
+1761,mlim,my life is magic
+1762,mlm,"multi level marketing middle finger "
+1763,mlp,my little pony
+1764,mls,my life sucks
+1765,mltr,multiple long term relationships
+1766,mlyp,much like your post
+1767,mm,married man
+1768,mm2,"message mode 2 "
+1769,mma,meet me at
+1770,mmamp,meet me at my place
+1771,mmao,make me an offer
+1772,mmc,multimedia card
+1773,mmd,make my day
+1774,mmh,meet me halfway
+1775,mmi,me myself and i
+1776,mml,made me laugh
+1777,mmofps,massively multiplayer online first person shooter
+1778,mmorpg,massively multiplayer online role playing game
+1779,mms,multimedia messaging service
+1780,mmt,makes me think
+1781,mmv,mileage may vary
+1782,mnc,mobile network code
+1783,mnf,monday night football
+1784,mnt,maybe next time
+1785,mo,"modus operandi "
+1786,moab,mother of all bombs massive ordnance air blast
+1787,moam,man on a mission
+1788,moas,mother of all secrets
+1789,moba,multiplayer online battle arena
+1790,moc,marriage of convenience my own creation
+1791,moh,my other half
+1792,mol,more or less
+1793,moo,matter of opinion my own opinion
+1794,mopo,master of the painfully obvious
+1795,moq,minimum order quantity
+1796,mos,mom over shoulder
+1797,mot,ministry of transport test for car safety
+1798,motb,mother of the bride
+1799,motd,message of the day match of the day
+1800,motku,master of the known universe
+1801,moto,master of the obvious
+1802,motwyw,make of that what you will
+1803,mou,memorandum of understanding
+1804,mp,military police member of parliament
+1805,mpa,music publishers association
+1806,mpaa,motion picture assosciation of america
+1807,mpe,my point exactly
+1808,mpeg,moving picture experts group audio or visual file format
+1809,mpg,miles per gallon
+1810,mph,miles per hour
+1811,mpo,my personal opinion
+1812,mpog,multiplayer online game
+1813,mpua,master pick up artist
+1814,mpv,multi purpose vehicle
+1815,mr,mentally retarded
+1816,mre,meal ready to eat
+1817,mri,magnetic resonance imaging
+1818,mrp,manufacturers recommended price
+1819,mrw,my reaction when
+1820,msdn,microsoft developer network
+1821,msdos,microsoft disk operating system
+1822,ms dos,microsoft disk operating system
+1823,msf,male seeking female
+1824,msfam,my sister from another mister
+1825,msg,message monosodium glutamate
+1826,msi,"mindless self indulgence "
+1827,msm,mainstream media
+1828,msrp,manufacturers suggested retail price
+1829,mst,mystery science theater
+1830,mta,more than anything
+1831,mtbf,"mean time between failures "
+1832,mtbmw,may the best man win
+1833,mtc,more to come
+1834,mtd,month to date
+1835,mte,my thoughts exactly
+1836,mtf,male to female
+1837,mtfbwy,may the force be with you
+1838,mtg,"magic the gathering "
+1839,mtlbwy,may the lord be with you
+1840,mto,"media take out "
+1841,mtuk,more than you know
+1842,mtv,music television
+1843,mtw,mums the word
+1844,mtyk,more than you know
+1845,mu,multi user
+1846,mua,"make up alley "
+1847,mud,multi user dungeon
+1848,mung,mash until no good
+1849,mva,motor vehicle accident
+1850,mvp,most valuable player
+1851,mw2,"modern warfare 2 "
+1852,mw3,"modern warfare 3 "
+1853,mwc,married with children
+1854,mwf,married white female
+1855,mwi,"mad with it "
+1856,mwm,married white male
+1857,mwpp,"moony wormtail padfoot and prongs "
+1858,my,miss you
+1859,myb,mind your business
+1860,mych,maybe you can help
+1861,myf,miss your  face
+1862,myggwy,may your god go with you
+1863,myl,miss you loads
+1864,mymp,make your mama proud
+1865,myob,mind your own business
+1866,myodb,mind your own damn business
+1867,mysm,miss you so much
+1868,myt,meet you there
+1869,na,not available not applicable not announced
+1870,naa,not at all
+1871,naacp,national association for the advancement of colored people
+1872,nabd,not a big deal
+1873,nac,"not a chance not a chain "
+1874,nagl,not a good look
+1875,nak,nursing at keyboard
+1876,nal,need a life
+1877,nalgas,buttocks
+1878,nalgo,not a lot going on
+1879,nalopkt,not a lot of people know that
+1880,nambla,north american man or boy love association
+1881,nap,not a problem
+1882,narp,non athletic regular person
+1883,naru,not a registered user
+1884,nas,network attached storage
+1885,nasa,national aeronautics and space administration
+1886,nascar,national association for stock car auto racing
+1887,nasdaq,national association of securities dealers automated quotation
+1888,nasl,name age sex location
+1889,natm,not at the moment
+1890,nato,north atlantic treaty organization no action talk only
+1891,natty,natural light beer smart good cool
+1892,nb,"not bad nota bene "
+1893,nba,national basketball association
+1894,nbb,never been better
+1895,nbc,national broadcasting company
+1896,nbd,no big deal
+1897,nbf,new best friend
+1898,nbg,nasty but good
+1899,nbif,no basis in fact
+1900,nbk,natural born killers never been kissed
+1901,nbm,nil by mouth not before midnight
+1902,nbsb,no boyfriend since birth
+1903,nbt,nothing but trouble
+1904,nbtd,nothing better to do
+1905,nbtw,now back to work
+1906,nc,no comment no choice
+1907,nc 17,"no children under 17 "
+1908,ncaa,national collegiate athletic association
+1909,ncb,never coming back
+1910,ncis,"naval criminal investigative service "
+1911,ncmo,non committal make out
+1912,ncnr,non cancelable non returnable
+1913,ncns,no call no show
+1914,nco,non commissioned officer
+1915,nda,non disclosure agreement
+1916,nde,near death experience
+1917,ndi,neither do i
+1918,ndp,new democratic party
+1919,ndr,non delivery report or receipt
+1920,nds,nintendo ds
+1921,nea,national education association
+1922,ned,non educated delinquent
+1923,nedm,not even doom music
+1924,neet,not in education employment or training
+1925,negl,not even going to lie
+1926,negu,never ever give up
+1927,nei,not enough information
+1928,ner,non existent relationship
+1929,nf,not funny
+1930,nfa,no further action
+1931,nfaa,not funny at all
+1932,nfi,no freakin idea
+1933,nfl,national football league
+1934,nfm,no further message
+1935,nfn,normal for norfolk
+1936,nfs,not for sale
+1937,nfsw,not for showing wife
+1938,nft,no further text
+1939,nfy,not fixed yet
+1940,nfz,no fly zone
+1941,ng,no good
+1942,ngh,not going to happen
+1943,ngl,not going to lie
+1944,ngo,non governmental organization
+1945,ngu,never give up
+1946,nguns,never give up never surrender
+1947,nh,"nice hand "
+1948,nhb,no holding back no holds barred
+1949,nhd,no harm done
+1950,nhf,no hard feelings
+1951,nhft,not here for that
+1952,nhl,national hockey league
+1953,nhn,not here now
+1954,nhoi,never heard of it
+1955,nhs,national health service
+1956,nhtb,never heard that before
+1957,ni,no idea
+1958,niamy,never in a million years
+1959,nib,new in box
+1960,nic,network interface card
+1961,nice,national institute of clinical excellence
+1962,nicu,neonatal intensive care unit
+1963,nid,never in doubt
+1964,nik,now i know
+1965,nimby,not in my back yard
+1966,niml,never in my life not in my lifetime
+1967,nin,nine inch nails
+1968,nism,need i say more
+1969,nitm,not in the mood
+1970,nitw,not in that way
+1971,nj,not joking nice job
+1972,njpw,new japan pro wrestling
+1973,nk,no kidding not known
+1974,nka,no known allergies
+1975,nkotb,new kid on the block
+1976,nkz,no kill zone
+1977,nla,no longer available
+1978,nli,not logged in
+1979,nlm,no laughing matter
+1980,nlt,no later than
+1981,nlyg,never let you go
+1982,nm,never mind nothing much no message
+1983,nme,"new musical express "
+1984,nmf,not my fault
+1985,nmg,"no mames guey "
+1986,nmh,nodding my head
+1987,nmhjc,not much happening just chilling
+1988,nmi,need more info
+1989,nmj,not my job
+1990,nmjc,not much just chat
+1991,nmjcu,not much just chillin you
+1992,nmn,no middle name
+1993,nmo,not my opinion
+1994,nmp,not my problem
+1995,nmr,not my responsibility
+1996,nms,not my style
+1997,nmt,not my type
+1998,nmu,not much you
+1999,nmw,no matter what
+2000,nmwh,no matter what happens
+2001,nmy,nice meeting you
+2002,nn,night night no need not nice
+2003,nnito,not necessarily in that order
+2004,nnto,no need to open
+2005,nntp,network news transfer protocol
+2006,nntr,no need to reply
+2007,noc,no one cares
+2008,noi,no offense intended
+2009,nok,not okay no one knows
+2010,nokd,not our kind dear
+2011,noly,no one likes you
+2012,nom,no offence meant
+2013,nomb,none of my business
+2014,nos,new old stock
+2015,nota,none of the above
+2016,notb,none of their business
+2017,notw,not of this world
+2018,noyb,none of your business
+2019,noydb,none of your damn business
+2020,np,no problem
+2021,npaa,no problem at all
+2022,npc,"non player character "
+2023,npi,no pun intended
+2024,npnt,no picture no talk
+2025,npo,never pull out
+2026,npr,national public radio no purchase required
+2027,npw,no problem whatsoever
+2028,npz,no problems
+2029,nqat,no question about that
+2030,nqr,not quite right
+2031,nr,no reply no reserve
+2032,nra,national rifle association
+2033,nre,new relationship energy
+2034,nrfb,never removed from box
+2035,nri,non resident indian non repairable item
+2036,nrl,national rugby league
+2037,nrn,no reply necessary
+2038,nsa,no strings attached
+2039,nsaw,not saying a word
+2040,nsd,never say die
+2041,nsf,not sufficient funds not so fast
+2042,nsfa,not safe for anyone
+2043,nsfl,not safe for life
+2044,nsftbc,not sorry for the broadcast
+2045,nsfv,not safe for viewing or vegetarians or vegans
+2046,nsfw,not safe for work
+2047,nsm,not so much
+2048,nsn,not so nice
+2049,nspcc,national society for prevention of cruelty to children
+2050,nsw,new south wales
+2051,nt,no thanks
+2052,ntb,not that bothered not too bad
+2053,ntbcw,not to be confused with
+2054,ntd,nothing to do
+2055,ntfs,new technology file system
+2056,ntk,need to know
+2057,ntl,nevertheless
+2058,ntm,not too much nothing much
+2059,ntmy,nice to meet you
+2060,ntn,no thanks needed
+2061,ntr,nothing to report
+2062,nts,nothing to say note to self
+2063,ntsc,national television system committee video standard
+2064,ntsh,nothing to see here
+2065,ntt,name that tune not touching that
+2066,nttawwt,not that there is anything wrong with that
+2067,nttu,not talking to you
+2068,ntw,not to worry
+2069,ntwf,neopian times writers forum
+2070,nty,no thank you
+2071,nus,national union of students
+2072,nvms,no visible means of support
+2073,nvn,not very nice
+2074,nvng,nothing ventured nothing gained
+2075,nw,no way
+2076,nwih,no way in hell
+2077,nwim,not what i mean
+2078,nwj,no way jose
+2079,nwly,never want to lose you
+2080,nwm,no worries mate
+2081,nwnc,no woman no cry
+2082,nwo,new world order
+2083,nwot,"new without tags "
+2084,nws,not work safe for messages or sites containing adult content
+2085,nwt,new with tags
+2086,ny,new york
+2087,nyb,not your business
+2088,nyc,new york city
+2089,nyd,new years day
+2090,nye,new years eve
+2091,nyf,not your fault
+2092,nyi,not yet implemented
+2093,nyk,not yet known now you know
+2094,nyob,not your own business
+2095,nyp,not your problem
+2096,nypd,new york police department
+2097,nyse,new york stock exchange
+2098,nyt,not your type new york times
+2099,nyu,new york university
+2100,oa,over acting over achiever
+2101,oan,on another note
+2102,oao,over and out
+2103,oap,old age pensioner
+2104,oatus,on a totally unrelated subject
+2105,oaus,on an unrelated subject
+2106,ob,oh brother
+2107,obby,oh baby
+2108,obe,overcome by events out of body experience order of the british empire
+2109,obhwf,one big happy weasely family
+2110,obo,or best offer
+2111,obq,oh be quiet
+2112,obtw,oh by the way
+2113,obx,outer banks north carolina
+2114,oc,of course original character orange county
+2115,ocd,obsessive compulsive disorder
+2116,ocn,of course not
+2117,oco,oh come on
+2118,ocr,optical character recognition
+2119,oct,on company time
+2120,odaat,one day at  a time
+2121,odf,own damn fault
+2122,odg,oh dear god
+2123,odl,oh dear lord
+2124,odst,"orbital drop shock trooper "
+2125,odt,on dis ting
+2126,oe,outlook express operator error
+2127,oed,oxford english dictionary
+2128,oem,original equipment manufacurer
+2129,ofay,offensive term for a white person
+2130,ofgs,oh for gods sake
+2131,ofh,old folks home
+2132,ofoc,overwhelming feelings of concern
+2133,ofwgkta,"odd future wolf gang kill them all "
+2134,og,original gangster old git
+2135,ogim,oh god it is monday
+2136,ogk,only god knows
+2137,ogn,online gaming network
+2138,oh,other half
+2139,ohac,own house and car
+2140,ohim,oh hell it is monday
+2141,ohko,one hit knock out
+2142,ohn,oh hell no
+2143,ohs,operator head space
+2144,oht,one handed typing
+2145,ohw,one hit wonder
+2146,oj,only joking
+2147,ojd,obsessive jonas  disorder
+2148,ojt,on job training
+2149,oled,organic light emitting diode
+2150,ollg,one less lonely girl
+2151,oloy,only losers obey yolo
+2152,oltl,one life to live
+2153,om,old man
+2154,oma,oh my allah
+2155,omb,on my break
+2156,omd,oh my days
+2157,omdb,over my dead body
+2158,omfsm,oh my flying spaghetti monster
+2159,omfug,other music found underground
+2160,omg,oh my god
+2161,omga,oh my giddy aunt
+2162,omgd,oh my god dude
+2163,omgna,oh my gosh not again
+2164,omj,"oh my jonas "
+2165,omjc,oh my jesus christ
+2166,oml,oh my lord
+2167,oms,oh my science
+2168,omsj,oh my sweet jesus
+2169,omt,one more thing
+2170,omw,on my way
+2171,omwh,on my way home
+2172,omz,oh my zeus
+2173,onm,oh never mind
+2174,onna,oh no not again
+2175,onnta,oh no not this again
+2176,ono,or nearest offer
+2177,ons,one night stand
+2178,ontd,oh no they did not
+2179,onyd,oh no you did not
+2180,ooa,out of ammo
+2181,ooak,one of a kind
+2182,oobe,out of body experience
+2183,ooc,out of control or character or context
+2184,oof,out of office
+2185,ooh,out of here
+2186,ooi,out of interest
+2187,oom,"out of mana "
+2188,oomf,one of my friends or followers
+2189,ooml,out of my league
+2190,oomm,out of my mind
+2191,ooo,out of office
+2192,oop,out of place
+2193,oos,out of style
+2194,oosoom,out of sight out of mind
+2195,oot,out of town
+2196,ootb,out of the box
+2197,ootc,obligatory on topic comment
+2198,ootd,offer of the day outfit of the day
+2199,ooto,out of the office
+2200,ootw,out of this world
+2201,ooyl,out of your league
+2202,ooym,out of your mind
+2203,op,original poster
+2204,opb,other peoples business
+2205,opk,other peoples kids
+2206,opm,other peoples money
+2207,opps,misspelling of oops
+2208,osfa,one size fits all
+2209,oslt,or something like that
+2210,oso,other significant other
+2211,oss,open source software
+2212,ost,original sound track
+2213,ot,off topic
+2214,ota,over the air
+2215,otb,off the boat
+2216,otc,over the counter
+2217,otd,on the dot out the door
+2218,ote,over the edge
+2219,otf,off topic forum
+2220,otfl,on the floor laughing
+2221,otg,on the go off the ground
+2222,oth,off the hook
+2223,otk,over the knee
+2224,otlta,one thing led to another
+2225,otm,of the moment one track mind
+2226,otn,on that note
+2227,oto,one time only
+2228,otoh,on the other hand
+2229,otooh,on the other other hand
+2230,otp,one true pairing
+2231,otr,on the run
+2232,ots,on the side
+2233,ott,over the top
+2234,otth,on the third hand
+2235,ottomh,off the top of my head
+2236,otw,on the way
+2237,otw,on the whole
+2238,oty,over to you
+2239,ou,open university
+2240,ouat,once upon a time
+2241,ouo,official use only
+2242,ova,original video animation
+2243,ovno,or very near offer
+2244,owk,other world kingdom
+2245,ownm,oh well never mind
+2246,owoa,one way or another
+2247,ows,occupy wall street
+2248,owtte,or words to that effect
+2249,oy,oh yeah
+2250,oyb,on your bike
+2251,oyg,oh your god
+2252,oyo,on your own
+2253,pa,personal assistant
+2254,pabx,private automatic branch exchange
+2255,pan,personal area network
+2256,patd,"panic at the disco "
+2257,patt,party all the time
+2258,paye,pay as you earn
+2259,payg,pay as you go
+2260,pb,personal best
+2261,pbb,pirate bulletin board
+2262,pbj,peanut butter and jelly
+2263,pbn,paintball nation
+2264,pbp,please be patient
+2265,pbq,please be quiet
+2266,pbr,"pabst blue ribbon "
+2267,pbs,public broadcasting service
+2268,pbuh,peace be upon him
+2269,pbwy,peace be with you
+2270,pc,politically correct personal computer
+2271,pcb,printed circuit board  please come back
+2272,pci,peripheral component interconnect
+2273,pcm,please call me
+2274,pcmcia,personal computer memory card international association
+2275,pcmia,personal computer manufacturer interface adaptor
+2276,pcmr,pc master race
+2277,pd,public domain
+2278,pda,personal digital assistant
+2279,pdbaz,please do not be a zombie
+2280,pdea,public display of elderly affection
+2281,pdf,portable document format
+2282,pdg,pretty damn good
+2283,pdoa,public display of affection
+2284,pdp,pretty darn precious
+2285,pdq,pretty damn quick
+2286,pdt,pacific daylight time
+2287,pe,physical education
+2288,pebcac,problem exists between chair and computer
+2289,pebcak,problem exists between chair and keyboard
+2290,pebkac,problem exists between keyboard and chair
+2291,pemdas,parenthesis exponents multiply divide add subtract
+2292,pews,post election withdrawal syndrome
+2293,pfa,please find attached
+2294,pfb,please find below
+2295,pfc,private first class
+2296,pfp,picture for proof
+2297,pg,parental guidance
+2298,pga,professional golfers association
+2299,pgda,pretty goddamn awesome
+2300,pgp,"pretty good privacy "
+2301,phat,pretty hot and tempting
+2302,phb,"pointy haired boss "
+2303,pibe,play it by ear
+2304,pic,picture partner in crime
+2305,picnic,problem in chair not in computer
+2306,pimpl,pee in my pants laughing
+2307,pin,personal identification number
+2308,pipa,protect ip act
+2309,piq,person in question
+2310,pir,parent in room
+2311,pitme,peace in the middle east
+2312,pitr,parent in the room
+2313,piu,pump it up
+2314,pk,"player kill "
+2315,pkb,pot kettle black
+2316,pki,public key infrastructure
+2317,pkit,please keep in touch
+2318,pla,peoples liberation army
+2319,plc,public limited company
+2320,pld,poor life decision
+2321,plh,peace love and happiness
+2322,pli,potential love interest
+2323,pll,pretty little liar
+2324,plma,please leave me alone
+2325,plmk,please let me know
+2326,plos,parents looking over shoulder
+2327,plp,people lazily procrastinating
+2328,plr,private label rights
+2329,plrn,please leave right now
+2330,plu,people like us
+2331,plur,peace love unity and respect
+2332,pm,"private message post meridiem "
+2333,pma,positive mental attitude
+2334,pmb,private message box
+2335,pmc,post meal cigarette
+2336,pmd,put me down
+2337,pmf,pardon my french
+2338,pmfji,pardon me for jumping in
+2339,pmigbom,put mind in gear before opening mouth
+2340,pmji,pardon my jumping in
+2341,pmt,pre menstrual tension
+2342,pmymhmmfswgad,pardon me you must have mistaken me for someone who gives a damn
+2343,pnc,point and click partner in crime
+2344,pnl,peace and love
+2345,pnp,party and play
+2346,pnr,passenger name record
+2347,pnw,pacific north west
+2348,poa,plan of action
+2349,pod,passed out drunk
+2350,pof,"plenty of fish  "
+2351,poi,point of interest
+2352,poidh,pics or it did not happen
+2353,pomo,permanent open market operations post modern a group of native american people in california
+2354,ponr,point of no return
+2355,potc,pirates of the carribean
+2356,potd,post of the day
+2357,poto,phantom of the opera
+2358,pots,"parents over the shoulder "
+2359,potus,president of the united states
+2360,potw,"patient of the week "
+2361,poty,post of the year
+2362,pov,point of view
+2363,pow,prisioner of war
+2364,ppb,parts per billion
+2365,ppc,pay per click
+2366,ppd,post potter depression
+2367,ppm,parts per million
+2368,pppw,per person per week
+2369,pps,post post script
+2370,ppu,please pick up
+2371,ppv,pay per view
+2372,pq,"party quest "
+2373,pr,public relations
+2374,prc,peoples republic of china
+2375,ps,photoshop play station post script
+2376,ps&qs,pints and quarts please and thank yous
+2377,ps2,playstation 2
+2378,ps3,playstation 3
+2379,ps4,playstation 4
+2380,psa,publice service announcement
+2381,psb,please see below
+2382,psh,dismissive expression
+2383,psi,pounds per square inch  greek letter
+2384,psm,personal short message
+2385,psn,playstation network
+2386,psp,playstation portable
+2387,psr,pretty standard really
+2388,pst,please send tell pacific standard time
+2389,pstn,public switched telephone network
+2390,psu,power supply unit
+2391,pt,phantasy tour physical training
+2392,ptb,powers that be pass the buck please text back
+2393,ptc,popping the collar
+2394,pti,pardon the interruption
+2395,ptl,praise the lord
+2396,ptm,please tell me
+2397,pto,paid time off
+2398,ptp,pay to play peer to peer
+2399,ptsd,post traumatic stress disorder
+2400,ptt,push to talk
+2401,ptw,play to win professional time waster
+2402,ptz,pan tilt zoom
+2403,pua,pick up artist
+2404,pug,pick up group
+2405,puv,public utility vehicle
+2406,pv,promotional video
+2407,pvc,polyvinyl chloride vinyl
+2408,pve,"player versus environment "
+2409,pvm,player versus monster
+2410,pvp,player v player
+2411,pvr,personal video recorder
+2412,pwor,proceeding with orders recieved
+2413,pwos,parents watching over shoulder
+2414,pwt,poor white trash
+2415,px,post exchange part exchange
+2416,pyp,play your position
+2417,pyt,pretty young thing
+2418,qa,quality assurance question and answer
+2419,qantas,queensland and northern territory aerial service
+2420,qap,quick as possible quickly as possible
+2421,qb,quarter back
+2422,qc,quality control
+2423,qed,"quod erat demonstrandum "
+2424,qfe,quoted for emphasis
+2425,qfmt,quoted for more truth
+2426,qfp,quoted for posterity
+2427,qft,quoted for truth
+2428,qi,quite interesting
+2429,ql,quite laughing
+2430,qno,quiet night out
+2431,qol,quality of life
+2432,qos,quantam of solace
+2433,qotd,quote of the day
+2434,qotsa,"queens of the stone age "
+2435,qp,"quarter pound "
+2436,qq4u,quick question for you
+2437,qs,quick scope
+2438,qvc,"quality value convenience "
+2439,r5,"region 5 "
+2440,ra,resident advisor resident assistant
+2441,rac,rock against communism
+2442,rak,random act of kindness
+2443,ram,random access memory
+2444,raok,random act of kindness
+2445,ras,remote access server
+2446,ratm,"rage against the machine "
+2447,rawl,roll around while laughing
+2448,rawr,right answer wrong reason
+2449,rbay,right back at you
+2450,rbg,revolutionary but gangsta
+2451,rbtl,read between the lines
+2452,rbv,red bull and vodka
+2453,rc,random chat radio controlled
+2454,rct,roller coster tycoon
+2455,rd,real deal
+2456,rdc,really do not care
+2457,rdh,rate date hate
+2458,rdj,robert downey jr
+2459,rdm,random death match
+2460,rdo,regular day off
+2461,rdr,"red dead redemption "
+2462,rfc,request for comment
+2463,rfi,request for information
+2464,rfid,radio frequency identification
+2465,rfp,request for proposal
+2466,rfq,request for quotation
+2467,rft,right first time
+2468,rfts,reach for the stars
+2469,rfyl,run for your life
+2470,rgb,red green blue
+2471,rhcp,"red hot chili peppers "
+2472,rhd,right hand drive
+2473,rhi,rumour has it
+2474,rhip,rank has its privileges
+2475,rhs,right hand side
+2476,rino,republican in name only
+2477,riyl,recommended if you like
+2478,rl,real life
+2479,rlab,roll like a buffalo
+2480,rlf,real life friend
+2481,rltw,rangers lead the way
+2482,rma,return merchandise authorization
+2483,rme,rolling my eyes
+2484,rml,read my lips
+2485,rmt,real money trading
+2486,rmv,results may vary
+2487,rn,right now registered nurse
+2488,rna,ribonucleic acid
+2489,rnb,rhythm and blues
+2490,rng,random number generator
+2491,rnr,rock n roll
+2492,ro,"ragnarok online "
+2493,roar,right of admission reserved
+2494,rofc,rolling on floor crying
+2495,rofl,rolling on floor laughing
+2496,roflmfao,rolling on floor laughing my fucking ass off
+2497,roflol,rolling on floor laughing out loud
+2498,rog,really old git
+2499,roh,"ring of honor "
+2500,roi,return on investment
+2501,rolf,rolling on laughing floor
+2502,ror,raughing out roud
+2503,ros,right on schedule
+2504,rotc,reserve officer training corps
+2505,rotf,"rolling on the floor "
+2506,rotffnar,rolling on the floor for no apparent reason
+2507,rotfl,rolling on the floor laughing
+2508,rotflol,rolling on the floor laughing out loud
+2509,rotgl,rolling on the ground laughing
+2510,rotk,"return of the king "
+2511,rotm,run of the mill
+2512,rov,remotely operated vehicle
+2513,row,rest of the world
+2514,roy,relative of yours
+2515,rpc,role playing chat
+2516,rpf,real person fiction
+2517,rpg,rocket propelled grenade role playing game
+2518,rpm,revolutions per minute
+2519,rps,"rock paper scissors "
+2520,rq,"random questions "
+2521,rsi,repetitive strain injury
+2522,rsn,real soon now
+2523,rspb,royal society for the protection of birds
+2524,rspca,royal society for the prevention of cruelty to animals
+2525,rss,rich site summary really simple syndication
+2526,rsvp,"repondez sil vous plait "
+2527,rt,retweet real time
+2528,rta,road traffic accident
+2529,rtb,return to base
+2530,rtd,ready to drink
+2531,rtf,return the favour
+2532,rtfaq,read the faq
+2533,rtfd,read the fucking description
+2534,rtfi,read the flipping instructions
+2535,rtfm,read the flipping manual
+2536,rtft,read the fucking thread read the fucking topic
+2537,rtg,ready to go
+2538,rtm,read the manual
+2539,rto,radio telephone operator
+2540,rtr,roll tide roll
+2541,rts,real time strategy
+2542,rtv,rock the vote
+2543,rtw,ready to wear round the world
+2544,rv,recreational vehicle
+2545,rvb,"red versus blue "
+2546,rvr,"realm versus realm "
+2547,rw,read write
+2548,rwd,rear wheel drive
+2549,rwl,roaring with laughter
+2550,rwnj,right wing nut job
+2551,rwp,random wall post
+2552,rwys,reap what you sow
+2553,ryc,regarding your comment
+2554,ryn,read your note regarding your note
+2555,ryo,roll your own
+2556,sa,sibling alert
+2557,sab,smoking a blunt
+2558,sae,stamped or self addressed envelope
+2559,saf,single asian female
+2560,safm,stay away from me
+2561,sahd,stay at home dad
+2562,sahm,stay at home mom
+2563,sahw,stay at home wife
+2564,salts,smiled a little then stopped
+2565,sam,stop annoying me
+2566,sap,sad and pathetic fool
+2567,sase,self addressed stamped envelope
+2568,sat,scholastic assessment test
+2569,sata,serial advanced technology attachment
+2570,satc,"sex and the city "
+2571,sats,standard attainment tests
+2572,sbd,silent but deadly
+2573,sbf,single black female
+2574,sbi,surrounded by incompetence
+2575,sbj,sweet baby jesus
+2576,sbm,single black male
+2577,sbs,step by step
+2578,sbsp,spongebob squarepants
+2579,sbt,sorry bout that
+2580,scnr,sorry could not resist
+2581,scotus,supreme court of the united states
+2582,scsi,small computer system interface
+2583,scuba,self contained underwater breathing apparatus
+2584,sd,sweet dreams secure digital  so drunk
+2585,sda,seventh day adventist
+2586,sdk,software development kit
+2587,sdmf,strength determination merciless forever society dwelling mother fucker
+2588,sdram,synchronous dynamic random access memory
+2589,seo,search engine optimization
+2590,sep,somebody elses problem
+2591,serp,search engine results page
+2592,sf,science fiction san francisco
+2593,sfam,sister from another mister
+2594,sflr,sorry for late reply
+2595,sfo,san francisco international airport
+2596,sfp,sorry for partying
+2597,sfr,smiling for real
+2598,sfsg,so far so good
+2599,sftbc,sorry for the broadcast
+2600,sfw,safe for work
+2601,sgtm,sounds good to me
+2602,sh,same here
+2603,shu,secure housing unit
+2604,siwoti,someone is wrong on the internet
+2605,slol,seriously laughing out loud
+2606,slr,"single lens reflex "
+2607,smao,study my ass off
+2608,smdh,shaking my damn head
+2609,smdhe,some mothers do have them
+2610,sme,small or medium enterprises
+2611,smgdh,shaking my god damn head
+2612,smh,shaking my head
+2613,smhid,shaking my head in despair
+2614,smhl,shaking my head laughing
+2615,smib,southern maryland inbred
+2616,smidsy,sorry mate i did not see you
+2617,sml,screw my life story of my life
+2618,smn,shoot me now
+2619,smog,sweet mother of god
+2620,smop,simple matter of programming
+2621,sms,short message service
+2622,smt,sucking my teeth
+2623,smtp,simple mail transfer protocol
+2624,snafu,situation normal all fouled up
+2625,snag,sensitive new age guy sausage
+2626,snc,social network check
+2627,snd,search and destroy
+2628,snes,super nintendo entertainment system
+2629,snf,so not funny
+2630,snm,say no more
+2631,snr,signal to noise ratio
+2632,snyk,so now you know
+2633,so,significant other shout out
+2634,soa,"state of alert "
+2635,soad,"system of a down "
+2636,soag,son of a gun
+2637,sog,"sea of green "
+2638,soh,sense of humor
+2639,sohf,sense of humor failure
+2640,soi,statement of intent
+2641,soidh,screenshot or it did not happen
+2642,somd,shit on my dick
+2643,soml,story of my life
+2644,somsw,someone over my shoulder watching
+2645,sooc,"straight out of camera "
+2646,sood,cool
+2647,sootb,straight out of the box
+2648,sop,standard operating procedure
+2649,sopa,stop online piracy act
+2650,sorn,statutory off road notification
+2651,sos,"save our souls "
+2652,sota,state of the art
+2653,srh,"supporting radical habits "
+2654,srm,stark raving mad
+2655,sro,standing room only
+2656,srt,street and racing technology
+2657,ss,screen shot
+2658,ssa,subject says all
+2659,ssbb,"super smash brothers brawl "
+2660,ssbhm,super sized
+2661,ssc,safe sane consensual
+2662,ssd,solid state drive
+2663,ssdd,same stuff different day
+2664,ssh,"secure she will "
+2665,ssid,service set identifier
+2666,ssl,secure socket layer see subject line
+2667,ssts,snickering softly to self
+2668,sswa,so say we all
+2669,stw,search the web
+2670,sty,same to you
+2671,styl,speak to you later
+2672,su,shut up
+2673,suad,shut up and drive
+2674,sul,see you later
+2675,sula,sweaty upper lip alert
+2676,tb,text back
+2677,tba,to be announced
+2678,tbbh,to be brutally honest
+2679,tbbt,"the big bang theory "
+2680,tbc,to be continued
+2681,tbch,to be completely honest
+2682,tbd,to be decided
+2683,tbe,to be edited
+2684,tbf,to be fair
+2685,tbfu,too bad for you
+2686,tbh,to be honest
+2687,tbm,tactical boyfriend mention
+2688,tbms,to be more specific
+2689,tbnt,thanks but no thanks
+2690,tbph,to be perfectly honest
+2691,tbqf,to be quite frank
+2692,tbqfh,to be quite fucking honest
+2693,tbqh,to be quite honest
+2694,tbr,to be real
+2695,tbs,tablespoon to be specified
+2696,tbss,too bad so sad
+2697,tbt,truth be told
+2698,tbtf,too big to fail
+2699,tbtg,thanks be to god
+2700,tbth,to be totally honest
+2701,tbtp,that is beside the point
+2702,tbu,to be updated
+2703,tbys,think before you speak
+2704,tc,take care
+2705,tcb,taking care of  business
+2706,tcby,the countrys best yogurt
+2707,tccic,take care because i care
+2708,tcfc,too close for comfort
+2709,tcfn,take care for now
+2710,tcfs,too cool for school
+2711,tcg,trading card game
+2712,tcgb,take care god bless
+2713,tck,third culture kid
+2714,tcl,tool command language
+2715,tcob,taking care of buisness
+2716,tcoy,take care of yourself
+2717,tcp,transmission control protocol
+2718,tcp or ip,transmission control protocol or internet protocol
+2719,tctc,to close to call
+2720,td,touchdown
+2721,tddup,til death do us part
+2722,tddwp,til death do we part
+2723,tdf,to die for
+2724,tdg,"too damn good three days grace "
+2725,tdh,tall dark and handsome
+2726,tdi,turbo direct injection turbo diesel injection
+2727,tdl,to do list
+2728,tdm,team deathmatch
+2729,tds,technical dificulties
+2730,tdtf,too drunk to function
+2731,tdwp,"the devil wears prada "
+2732,tdy,temporarily deployed for a year
+2733,teotwawki,the end of the world as we know it
+2734,tfa,thanks for asking
+2735,tfc,"team fortress classic "
+2736,tfcd,time for compact disc
+2737,tffw,too funny for words
+2738,tfi,thanks for the information
+2739,tfios,the fault in our stars
+2740,tfl,tip for life transport for london
+2741,tflmk,thanks for letting me know
+2742,tflms,thanks for letting me share
+2743,tfln,texts from last night
+2744,tfm,total frat move
+2745,tfmtk,that is for me to know
+2746,tfp,thanks for playing
+2747,tfrm,thanks for reminding me
+2748,tfs,thanks for sharing
+2749,tft,the frozen throne  thin film transistor
+2750,tfta,thanks for the add
+2751,tftc,thanks for the cache
+2752,tftd,thought for the day
+2753,tfti,thanks for the info
+2754,tftl,thanks for the link
+2755,tg,thank god transgender too good
+2756,tgal,think globally act locally
+2757,tge,misspelling of the
+2758,tgfg,thank god for google
+2759,tgfi,thank god for the internet
+2760,tgfl,thank god for life
+2761,tgft,thank god for that
+2762,tgi,"thank god it is "
+2763,tgia,thank god i am alive
+2764,tgiaf,thank god it is almost friday
+2765,tgif,thank god it is friday
+2766,tgim,thank god it is monday
+2767,tgio,thank god it is over
+2768,tgit,thank god it is thursday
+2769,tgod,taylor gang or die
+2770,tgp,thumbnail gallery post
+2771,tgtbt,too good to be true
+2772,thabto,two heads are better than one
+2773,thwu,to hell with you
+2774,tiic,the idiots in charge
+2775,tinag,this is not a game
+2776,tinalo,this is not a legal opinion
+2777,tinar,this is not a recommendation
+2778,tinstafl,there is no such thing as free lunch
+2779,tla,three letter acronym
+2780,tlc,tender loving care
+2781,tld,top level domain
+2782,tldnr,too long did not read
+2783,tldr,too long did not read
+2784,tldw,too long did not watch
+2785,tlgo,the list goes on
+2786,tli,too little information
+2787,tlnd,true love never dies
+2788,tlol,truly laughing out loud
+2789,tltr,too long to read
+2790,tlyk,to let you know
+2791,tm,text message text me trademark
+2792,tma,take my advice
+2793,tmai,tell me about it
+2794,tmb,text me back
+2795,tmbg,"they might be giants "
+2796,tmbi,tell me bout it
+2797,tme,too much effort
+2798,tmf,too much forehead
+2799,tmh,touch my hand
+2800,tmi,too much information
+2801,tmk,to my knowledge
+2802,tml,thank me later text me later
+2803,tmlt,to my last tweet
+2804,tmm,tell me more
+2805,tmms,that made me smile
+2806,tmn,touch me not
+2807,tmnt,teenage mutant ninja turtles
+2808,tmp,tactical machine pistol
+2809,tmr,tomorrow
+2810,tmrw,tomorrow
+2811,tms,too much swag
+2812,tmsidk,tell me something i do not know
+2813,tmt,too much tuna
+2814,tmtc,too many to count
+2815,tmth,too much to handle
+2816,tmtowtdi,there is more than one way to do it
+2817,tmts,too much too soon
+2818,tmtt,too much to text
+2819,tmy,tell me why
+2820,tmz,"thirty mile zone "
+2821,tna,total nonstop action
+2822,tnb,there is nothing better
+2823,tnbm,true norwegian black metal
+2824,tnf,that is not funny
+2825,tng,"the next generation "
+2826,tnl,to next level
+2827,tnln,took nothing left nothing
+2828,tno,trust no one
+2829,tnop,totally not our problem
+2830,tnot,take note of that
+2831,tnsl,"took nothing signed logbook "
+2832,tnstaafl,there is no such thing as a free lunch
+2833,tnt,til next time
+2834,tntm,that is news to me
+2835,to,time out
+2836,toc,table of contents
+2837,tod,time of death time of day
+2838,toefl,test of english as a foreign language
+2839,toeic,test of english for international communication
+2840,toft,take one for the team
+2841,toftt,take one for the team
+2842,toh,the other half
+2843,tol,thinking out loud thinking of laughing
+2844,tom,time of month
+2845,totb,think outside the box
+2846,totd,tip of the day tweet of the day
+2847,totga,the one that got away
+2848,totm,time of the month
+2849,totus,teleprompter of the united states
+2850,toy,thinking of you
+2851,tp,"toilet paper town portal "
+2852,tpam,the person above me
+2853,tpb,the pirate bay
+2854,tpe,total power exchange
+2855,tpk,total party kill
+2856,tpo,time place occasion
+2857,tps,totally pointless stuff
+2858,tpt,trailer park trash
+2859,tptb,the powers that be
+2860,tr,triple rainbow
+2861,traw,thick rich and white
+2862,trdmc,tears running down my cheeks
+2863,trdmf,tears running down my face
+2864,trg,tiny rascal gang
+2865,ttfw,too tacky for words
+2866,ttg,time to go
+2867,ttgg,time to go girl
+2868,tth,trying too hard
+2869,ttiuwp,this thread is useless without pictures
+2870,ttiwwp,this thread is worthless without pictures
+2871,ttjasi,take this job and shove it
+2872,ttl,"thank the lord time to live "
+2873,ttm,talk to me
+2874,ttmab,to the moon and back
+2875,ttml,talk to me later
+2876,tto,time to own
+2877,ttotm,that time of the month
+2878,ttp,to the point
+2879,ttr,time to relax
+2880,ttt,"third tier toilet "
+2881,ttte,thomas the tank engine
+2882,ttth,talk to the hand
+2883,tttt,these things take time
+2884,tttty,time to talk to you
+2885,ttul,talk to you later
+2886,ttus,talk to you soon
+2887,ttut,talk to you tomorrow
+2888,ttutt,to tell you the truth
+2889,tty,talk to you
+2890,ttyf,talk to you forever
+2891,ttyiab,talk to you in a bit
+2892,ttyitm,talk to you in the morning
+2893,ttyl,talk to you later
+2894,ttym,talk to you ma
+2895,ttyn,talk to you never
+2896,ttyrs,talk to you real soon
+2897,ttys,talk to you soon
+2898,ttyt,talk to you tomorrow
+2899,ttytt,to tell you the truth
+2900,ttyvs,talk to you very soon
+2901,tul,tell you later text you later
+2902,tvm,thanks very much
+2903,tw,trigger warning
+2904,twain,technology without an interesting name
+2905,twloha,to write love on her arms
+2906,twoc,taken without owners consent
+2907,twtmc,to whom this may concern
+2908,twu,that is what is up
+2909,twyl,talk with you later
+2910,twyms,that is what your mom said
+2911,ty,thank you
+2912,tyb,try your best
+2913,tybg,thank you based god
+2914,tyfays,thank you for all your support
+2915,tyfe,thank you for everything
+2916,tyfyt,thank you for your time
+2917,tyg,there you go
+2918,tyj,thank you jesus
+2919,tyl,text you later
+2920,tylj,thank you lord jesus
+2921,tym,thank you much
+2922,tymbi,thought you might be interested
+2923,tys,thank you sir
+2924,tysm,thank you so much
+2925,tysvm,thank you so very much
+2926,tyt,take your time
+2927,tyvm,thank you very much
+2928,uri,uniform resource indicator url
+2929,url,uniform resource locator internet address
+2930,us,united states
+2931,usa,united states of america
+2932,usaf,united states air force
+2933,usb,universal serial bus
+2934,usbm,united states black metal
+2935,usc,university of southern california
+2936,uscg,united states coast guard
+2937,usd,united states dollar
+2938,usmc,united states marine corps
+2939,usp,unique selling point
+2940,usps,united states postal service
+2941,uss,united states ship
+2942,ussr,union of soviet socialist republics
+2943,usw,"und so weiter "
+2944,ut,unreal tournament
+2945,utc,coordinated universal time under the counter
+2946,utd,up to date
+2947,ute,utility vehicle pickup truck
+2948,utf,unicode transformation format
+2949,utfl,use the force luke
+2950,uth,up the hoods
+2951,uti,urinary tract infection
+2952,uto,unable to obtain
+2953,utp,up town projects
+2954,utr,under the radar
+2955,uts,under the skin
+2956,utt,under the table
+2957,uv,unpleasant visual
+2958,uw,you are welcome
+2959,uws,"upper west side "
+2960,ue,user experience
+2961,uy,up yours
+2962,va,various artists
+2963,vbd,very big deal
+2964,vbg,very big grin
+2965,vbl,visible bra line
+2966,vbr,variable bit rate
+2967,vbs,very big smile
+2968,vc,voice chat
+2969,vcard,virtual  business card
+2970,vcd,video compact disc
+2971,vcr,video cassette recorder
+2972,vdu,visual display unit
+2973,vfm,value for money
+2974,vg,video game very good
+2975,vga,video graphics array or adaptor
+2976,vgc,very good condition
+2977,vgg,very good game
+2978,vgl,very good looking
+2979,vgm,video game music
+2980,vh1,"video hits one "
+2981,vhf,very high frequency
+2982,vhs,video home system
+2983,vibe,atmosphere ambience
+2984,vid,video
+2985,vig,interest paid on a loan
+2986,vin,vehicle identification number
+2987,vip,very important person
+2988,viz,"adult comic namely "
+2989,vj,"video jockey "
+2990,vlan,virtual local area network
+2991,vlsi,very large scale integration
+2992,vm,voice mail
+2993,vma,video music awards
+2994,vmi,virginia military institute
+2995,vn,very nice
+2996,vnc,virtual network computing
+2997,vnds,very near dead stock
+2998,vnh,"very nice hand "
+2999,vns,very nice shot
+3000,voa,voice of america
+3001,vod,video on demand
+3002,voip,voice over   internet telephony
+3003,vp,vice president
+3004,vpl,visible panty line
+3005,vpn,virtual private network
+3006,vr,virtual reality
+3007,vs,versus against
+3008,vt,video tape
+3009,vtl,visible thong line
+3010,vtpr,view to permanent relationship
+3011,vtr,video tape recorder
+3012,vv,very very
+3013,vvn,very very nice
+3014,vwp,very well played very well put
+3015,wafwot,what a fucking waste of time
+3016,waj,what a joke
+3017,wak,weird awful
+3018,wal,what a loser
+3019,wam,wait a minute what a mess
+3020,wamh,with all my heart
+3021,wamhas,with all my heart and soul
+3022,waml,with all my love
+3023,wap,wireless access point
+3024,wapce,women are pure concentrated evil
+3025,warez,cracked or pirate software
+3026,was,wait and see
+3027,way,where are you
+3028,wayd,what are you doing
+3029,waydrn,what are you doing right now
+3030,waylt,what are you listening to
+3031,wayoa,what are you on about
+3032,wayta,what are you talking about
+3033,waywo,what are you working on
+3034,wbb,will be back
+3035,wbm,want to be moderator
+3036,wbn,would be nice
+3037,wbr,with best regards
+3038,wbs,write back soon
+3039,wbt,will be there
+3040,wbu,what about you
+3041,wbw,white boy wasted
+3042,wby,what bout you
+3043,wcb,will call back
+3044,wcg,world cyber games
+3045,wcis,what can i say
+3046,wcs,worst case scenario
+3047,wcw,world championship wrestling
+3048,wcyd,what can you do
+3049,wd,well done
+3050,wde,worst day ever
+3051,wdfd,whoop dee fucking doo
+3052,wdh,what da hell
+3053,wdib,why do i bother
+3054,wdic,what do i care
+3055,wdim,what does it mean
+3056,wditot,why did not i think of that
+3057,wdmb,will do my best
+3058,wdoml,worst day of my life
+3059,wdtm,what does that mean
+3060,wdud,what do you do
+3061,wdum,what do you mean
+3062,wdut,what do you think
+3063,wdw,who dares wins
+3064,wdy,why do not you
+3065,wdyd,what did you do
+3066,wdydt,why did you do that what did you do today
+3067,wdye,what did you expect
+3068,wdyg,where did you go
+3069,wdym,what do you mean
+3070,wdymbt,what do you mean by that
+3071,wdys,what did you say
+3072,wdyt,what do you think
+3073,wdyw,what do you want
+3074,wdywfm,what do you want from me
+3075,wdywt,what did you wear today
+3076,wdywtta,what do you want to talk about
+3077,wef,with effect from
+3078,wep,wireless encryption protocol
+3079,wfyb,whatever floats your boat
+3080,whyb,where have you been
+3081,whyd,what have you done
+3082,wia,wounded in action
+3083,wip,work in progress
+3084,wir,when it is ready
+3085,with,where in the hell
+3086,witw,what in the world
+3087,wiuwy,what is up with you
+3088,wiwt,what i wore today wish i was there
+3089,wiwwu,wish i was with you
+3090,wiwwy,what is wrong with you
+3091,wiyp,what is your problem
+3092,wjd,what jesus did
+3093,wk,white knight
+3094,wks,well kept secret
+3095,wkyp,will keep you posted
+3096,wlm,windows live messenger
+3097,wltm,would like to meet
+3098,wlyb,who loves you baby
+3099,wlyk,will let you know
+3100,wm,woman marine
+3101,wma,windows media audio
+3102,wmd,weapons of mass destruction
+3103,wmf,wagging my finger
+3104,wmg,warner music group
+3105,wml,wish me luck
+3106,wmmows,wash my mouth out with soap
+3107,wmp,windows media player with much pleasure
+3108,wmv,windows media video
+3109,wmyb,what makes you beautiful
+3110,wn,why not what is new
+3111,wnditwb,we never did it this way before
+3112,wnl,within normal limits
+3113,wnohgb,where no one has gone before
+3114,wntt,we need to talk
+3115,wnwy,what is new with you
+3116,woat,worst of all time
+3117,wob,waste of bandwith
+3118,woc,women of color
+3119,woe,what on earth
+3120,wof,while on fire
+3121,wog,offensive term for a black person a foreigner
+3122,wom,women over mates
+3123,wombat,waste of money brains and time
+3124,wos,waste of space wife over shoulder
+3125,wotam,waste of time and money
+3126,wotcher,what are you up to
+3127,wotd,word of the day
+3128,wotlk,"wrath of the lich king "
+3129,wots,word on the street
+3130,wp,wrong person well played
+3131,wpa,wi fi protected access
+3132,wpm,words per minute
+3133,wpww,white pride world wide
+3134,wr,warm regards
+3135,wrt,with regard to
+3136,wru,where are you
+3137,wrud,what are you doing
+3138,wruta,what are you talking about
+3139,wryd,what are you doing
+3140,wryta,what are you talking about
+3141,wsic,why should i care
+3142,wsm,woman seeking man
+3143,wsp,what is up
+3144,wss,why so serious
+3145,wst,we are still friends
+3146,wsul,will see you later
+3147,wswta,what shall we talk about
+3148,wt,"what the  or who the "
+3149,wta,winner takes all
+3150,wtb,want to buy
+3151,wtbs,with that being said
+3152,wtc,world trade center what the crap
+3153,wtd,what the deuce
+3154,wtdt,what to do today
+3155,wtdta,where they do that at
+3156,wtft,"what the french toast "
+3157,wtg,way to go
+3158,wtgp,way to go partner
+3159,wtgp,want to go private
+3160,wth,what or where or who the hell
+3161,wthay,who the hell are you
+3162,wthc,who the hell cares
+3163,wthigo,what the hell is going on
+3164,wthit,what the hell is that
+3165,wthiwwy,what the hell is wrong with you
+3166,wthn,why the heck not
+3167,wthru,who the hell are you
+3168,wtii,what time is it
+3169,wtk,want to know
+3170,wtl,will talk later
+3171,wtlw,welcome to last week
+3172,wtm,what is the matter
+3173,wtmi,way too much information
+3174,wtml,welcome to my life
+3175,wtmw,welcome to my world
+3176,wto,world trade organization
+3177,wtp,what is the point
+3178,wtt,want to trade
+3179,wttc,welcome to the club
+3180,wttir,when the time is right
+3181,wttj,welcome to the jungle
+3182,wttm,without thinking too much
+3183,wtw,walk through walls  walk this way
+3184,wty,why thank you
+3185,wtyo,whatever turns you on
+3186,wuciwug,what you see is what you get
+3187,wud,what you doing
+3188,wuf,where are you from
+3189,wug,what you got where you going
+3190,wugowm,will you go out with me
+3191,wul,watched user list
+3192,wula,what are you looking at
+3193,wullnp,wishing you long life and prosperity
+3194,wum,woman wind up merchant
+3195,wuw,what you want
+3196,wuwcb,what do you want to chat about
+3197,wuwh,wish you were here
+3198,wuwt,what is up with that
+3199,wuwta,what you want to talk about
+3200,wuwtb,what you want to talk bout
+3201,wuwu,what is up with you
+3202,ww,white widow  white woman
+3203,wwa,wiggers with attitude
+3204,wwbd,what would batman do
+3205,wwcnd,what would chuck norris do
+3206,wwe,world wrestling entertainment
+3207,wwf,"world wildlife fund world wrestling federation "
+3208,wwic,why would i care
+3209,wwit,what was i thinking
+3210,wwjbd,what would jason bourne do
+3211,wwjd,what would jesus do
+3212,wwjp,what would jesus post
+3213,wwotw,wicked witch of the west
+3214,wwtbam,who wants to be a millionaire
+3215,wwu,where were you
+3216,www,world wide web
+3217,wwwy,what is wrong with you
+3218,wwy,where were you
+3219,wwyd,what would you do
+3220,wwydt,why would you do that
+3221,wya,where you at
+3222,wyatb,wish you all the best
+3223,wyb,watch your back
+3224,wybd,what have you been doing
+3225,wybmv,will you be my valentine
+3226,wycm,will you call me
+3227,wyd,what you doing
+3228,wydn,what you doing now
+3229,wyf,"what is your favorite "
+3230,wyg,what you get
+3231,wygowm,will you go out with me
+3232,wyk,would you kindly
+3233,wyl,whatever you like
+3234,wylaboctgwtr,would you like a bowl of cream to go with that remark
+3235,wylasomwtc,would you like a saucer of milk with that comment
+3236,wylion,whether you like it or not
+3237,wylscwtw,would you like some cheese with that whine
+3238,wylt,what you listening to
+3239,wym,watch your mouth what you mean
+3240,wymm,will you marry me
+3241,wyn,what is your name
+3242,wyp,what is your problem what is your point
+3243,wyr,would you rather
+3244,wys,what you said
+3245,wysiwyg,what you see is what you get
+3246,wyta,what you talking about
+3247,wyut,what you up to
+3248,wyw,whatever you want
+3249,wywh,wish you were here
+3250,wywta,what you want to talk about
+3251,yagb,"you are not grizz baby "
+3252,yala,you always live again
+3253,yana,you are not alone
+3254,yatb,you are the best
+3255,yatk,you are too kind
+3256,yatloml,you are the love of my life
+3257,yavw,you are very welcome
+3258,yaw,you are welcome
+3259,ybs,you will be sorry
+3260,ybtj,you be the judge
+3261,ybw,you have been warned
+3262,ybwm,you belong with me
+3263,ycmiu,you could not make it up
+3264,ycmu,you crack me up
+3265,ydek,you do not even know
+3266,ydi,you deserve it
+3267,ydk,you do not know
+3268,ydl,yellow dog linux
+3269,ydms,you do not make sense
+3270,ydmt,you do not mean that
+3271,yds,you do not say
+3272,ydu,you do not understand
+3273,yf,your friend
+3274,yfw,"your face when "
+3275,yg,young gangster
+3276,ygg,you go girl
+3277,ygi,you got it
+3278,yglt,you are going to love this
+3279,ygm,you get me you have got mail
+3280,ygpm,you have got private message
+3281,ygtbk,you have got to be kidding
+3282,ygtbkm,you have got to be kidding me
+3283,ygti,you get the idea
+3284,ygtr,you got that right
+3285,yha,youth hostel association
+3286,yhbt,you have been trolled
+3287,yhbw,you have been warned
+3288,yhgasp,you have got a serious problem
+3289,yhl,you have lost
+3290,yhm,you have mail
+3291,yhni,you have no idea
+3292,yhtbt,you had to be there
+3293,yid,yes i do
+3294,yik,yes i know
+3295,yitb,yours in the bond
+3296,yite,are you all right
+3297,yjltg,you just lost the game
+3298,yk,you are kidding
+3299,ykhii,you know how it is
+3300,ykims,you know it makes sense
+3301,yktr,you know the rest
+3302,ykw,you know who
+3303,ykwim,you know what i mean
+3304,ykwis,you know what i am saying
+3305,ykylm,you know you love me
+3306,yl,young lady
+3307,yli,you love it
+3308,ylm,you love me
+3309,ylod,yellow light of death
+3310,ylyl,you laugh you lose
+3311,ym,yahoo messenger your mom
+3312,ymbj,you must be joking
+3313,ymca,young mens christian association
+3314,ymcmb,young money cash money billionaires
+3315,ymmd,you made my day
+3316,ymml,you make me laugh
+3317,ymms,you make me smile
+3318,ymmv,your mileage may vary
+3319,ymw,you are most welcome
+3320,ynk,you never know
+3321,ynw,you are not welcome
+3322,ynwa,you will never walk alone
+3323,yolf,you only live forever
+3324,yolo,you only live once
+3325,yomb,you owe me big
+3326,yoyo,you are on your own
+3327,yp,your problem yes please
+3328,yqw,you are quite welcome
+3329,yr,yea right
+3330,yrg,you are good
+3331,yrmv,your results may vary
+3332,yro,your rights online
+3333,yru,why are you
+3334,ysc,your so cute
+3335,ysi,you stupid idiot
+3336,ysk,you should know
+3337,ysmtu,you so made that up
+3338,yss,you suck severely
+3339,ysvw,you are so very welcome
+3340,ysyl,you snooze you loose
+3341,yt,"you think "
+3342,ytb,you are the best
+3343,ytd,year to date
+3344,ytm,you are the man
+3345,ytml,you will thank me later
+3346,ytmnd,"you are the man now dog "
+3347,yto,you are the one
+3348,ytp,youtube poop
+3349,yttm,you talk too much you talking to me
+3350,yum,said when something tastes good or is attractive
+3351,yvw,you are very welcome
+3352,yw,you are welcome
+3353,ywca,young womens christian association
+3354,ywimc,your wish is my command
+3355,ywsyls,you win some you lose some
+3356,ywu,yo waz up

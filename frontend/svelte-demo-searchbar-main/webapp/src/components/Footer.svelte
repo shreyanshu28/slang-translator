@@ -1,0 +1,3 @@
+<div class="flex absolute bottom-0 w-full h-12 border-t borger-gray-300 items-center justify-center text-sm bg-gray-100 text-gray-700">
+    <p>⭐ <span class="text-[#0073c6]">ElasticSearch</span> + <span class="text-[#05998b]">FastAPI</span> + <span class="text-[#ff3e04]">Svelte</span> demo project. Check out the <a href="https://github.com/jfreyberg/svelte-demo-searchbar" class="text-blue-500 hover:underline">source code on Github</a></p>.
+</div>

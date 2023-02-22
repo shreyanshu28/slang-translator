@@ -1,0 +1,50 @@
+version: '3'
+
+services:
+# API
+
+  api:
+    build:
+      context: ./api
+    container_name: api
+    ports:
+      - 127.0.0.1:2999:80
+    depends_on:
+      elastic:
+        condition: service_healthy
+    healthcheck:
+          test: ["CMD", "wget", "http://localhost:80/health"]
+          interval: 5s
+
+# data storage
+
+  elastic:
+    container_name: elastic
+    build:
+      context: ./elastic
+    environment:
+      - xpack.security.enabled=false
+      - "discovery.type=single-node"
+    ports:
+      - 127.0.0.1:9200:9200
+    volumes:
+     - ./elastic/log4j2.properties:/usr/share/elasticsearch/config/log4j2.properties
+     - ./elastic/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+
+# frontend
+
+  webapp:
+    build:
+      context: ./webapp
+    container_name: webapp
+    volumes:
+      - type: bind
+        source: ./webapp/src
+        target: /usr/src/webapp/src
+      - type: bind
+        source: ./webapp/static
+        target: /usr/src/webapp/static
+    ports:
+      - 127.0.0.1:3000:3000
+    links:
+      - api

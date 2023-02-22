@@ -1,0 +1,24 @@
+{
+  "name": "demo-search",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev --host",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@lukeed/uuid": "^2.0.0",
+    "cookie": "^0.4.1"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-vercel": "next",
+		"@sveltejs/kit": "next",
+		"@types/cookie": "^0.5.1",
+		"svelte": "next",
+		"svelte-check": "^2.7.1",
+		"vite": "^4.0.0",
+    "svelte-adapter": "^0.5.0",
+    "svelte-preprocess": "^4.10.4",
+    "axios": "1.2.2"
+  }
+}
