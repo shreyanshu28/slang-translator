@@ -44,10 +44,6 @@ with open('./charts.csv') as f:
 def health():
     return {'success': True, 'message': 'healthy :)'}
 
-# index_name = "slang-demo-json"
-# request = '''{"query": {"match_all": {}}}'''
-# results = client.search(index=index_name, body=request,size = 100)['hits']
-# print(results)
 
 # endpoint that allows users to search on the frontend :)
 @app.post("/search")
@@ -65,23 +61,25 @@ def search(search_query: SearchQuery):
     #     }
     # }
     doc = {
-        "size" : 10,
-        "query" :{
-            "match_all" : {}
+        "query": {
+        "bool": {
+          "must": [
+            {
+              "match": {
+                "expansion": search_query.text,
+                #"fuzziness":2
+                
+              }
+            }
+          ]
         }
-    }
+      }
+}
     res = es.search(index='charts', body=doc, scroll='1m')
 
-    print("RESE", res['hits'])
-
     # get results
-    # data = [x['_source'] for x in res['hits']['hits']]
-    # print("DATA ", res)
+    data = [x['_source'] for x in res['hits']['hits']]
+    print("DATA ", data)
 
 
-    return {"query": search_query.text, 'success': True, 'results': res}
-
-
-@app.get("/")
-def root():
-    return {"Hello": "World :)"}
+    return {"query": search_query.text, 'success': True, 'results': data}
