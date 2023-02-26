@@ -5,9 +5,7 @@
 ### Team members:
 
 Anu Reddy : Anu.reddy@uni-heidelberg.de \
-Mani Smaran Nair : manismarann@gmail.com \
 Shreyansu Vyas : rk305@stud.uni-heidelberg.de \
-Yanxin Jia : jiayx@hotmail.com
 
 ### Existing code fragments:
 
