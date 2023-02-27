@@ -195,3 +195,5 @@ The example shows the output that is shown after training.
 Created the whole pipeline with the docker file. A few indexes are created while the other are still pending.
 Soon , we will have the results being printed on the frontend svelte.
 
+## 26.02.2023
+Completed the pippeling and successfully imported the data from elasticsearch v7 to elasticsearch v8. The results are now displayed on svelte
