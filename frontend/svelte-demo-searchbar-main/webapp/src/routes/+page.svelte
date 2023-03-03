@@ -5,7 +5,7 @@
 </script>
 
 <div class="flex flex-col justify-center items-center h-screen w-screen gap-y-4">
-  <Logo text="Slang Translator"/>
+  <Logo text="ChatTrends"/>
   <SearchBar />
   <SearchResults />
 
