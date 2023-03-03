@@ -42,12 +42,13 @@ In the next stage : Implementing the front interface and using the api developed
 #### Contribution By Shreyansu Vyas:
 
 Combining multiple datasets into one comprehensive file. (data cleaning)
-In the next stage : Implementing the scraping of twitter data into the elasticsearch dataset.
+creating frontend, refactoring, maintaining readme
+
 
 #### Contribution By Yanxin Jia:
 
 Written the project proposal, explored various methods for data utilization.
-In the next stage : further model&algorithm implementation.
+In the next stage : further model&algorithm implementation. (DROPPED OUT)
 
 ### Datasets Used (or will be utilizing):
 
@@ -63,21 +64,10 @@ https://7esl.com/texting-abbreviations/
 
 https://www.kaggle.com/datasets/therohk/urban-dictionary-words-dataset
 
-Twitter data (API obtained, will be crawling data)
-
-### APIs that would be in use:
-
-Twitter, ReverseDictionary.
 
 ## Project State
 
-We have completed the initial steps of data collection and drafted possible approaches based on the existing form of our corpus.
-
-### Planning State
-
-We now have all the data&API required for the project and as they mostly require little preprocessing (except the tweets), it's ready for use. For preprocessing&word2vec training, see word2vec_model_formulation.py. The training dataset will be renewed after crawling from twitter API.
-
-The framework of the project is thought of and partially implemented, thus it should not take much time to finish what I mention in "future planning".
+The project has been completed succesfully
 
 ### Future Planning
 
@@ -94,6 +84,8 @@ The other part of the datasets are mostly slang-related. We already have abbrevi
 Another major difference between informal&formal language is the grammar. There are large-scaled tools like grammarly for auto grammar correction. This would come into use if we are going to translate from informal text into formal ones, while parsing sentence structure according to grammar can also be applicable if we would want to for example remove the subject ("I am studying hard"->"am studying hard") to add some informal flavor when translating formal language into Internet language.
 
 Implement the above mentioned pipeline should not take more than a week, and I would propose that the group finish a basic version of the project (with a functioning UI) before end of the year which is 12.31. While implementing there could also be timeline and stategy shifts due to precision of the proposed method.
+
+This has been completed however, some part has not been integrated due to members dropping out.
 
 ### Architecture Description
 
@@ -195,3 +187,5 @@ The example shows the output that is shown after training.
 Created the whole pipeline with the docker file. A few indexes are created while the other are still pending.
 Soon , we will have the results being printed on the frontend svelte.
 
+## 03.03.2023
+The project has been completed.
